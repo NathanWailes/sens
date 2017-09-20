@@ -20,3 +20,5 @@ Aubrey found the first problem ([Source](https://www.youtube.com/watch?v=PX5bes7
 Since then, "it's all been about problem number three: the funding" ([Source](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=7m45s)). [Aubrey estimates](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=9m32s) that the necessary research could be done three times faster if SENS had ten times more money (so, $40-50 million/year).
 
 # How can I help?
+ - It would be helpful to have people help me gather links to YouTube videos and extract the transcripts to those videos.
+   - I have instructions in this repo in the 'How to' folder on how to extract the transcript for a video from YouTube.
