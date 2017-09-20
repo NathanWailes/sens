@@ -1,5 +1,5 @@
 # Rationale
-The idea here is to collect links for more information that would normally show up in a README and keep the README focused more on new users.
+The idea here is to collect links for more information that would normally show up in a README and keep the README focused on only the most essential information that new visitors to this repo must understand.
 
 # SENS
 - [sens.org](http://www.sens.org/)
