@@ -17,6 +17,6 @@ The current goal is to get SENS's funding to $40 million/year from its current l
 
 Aubrey found the first problem ([Source](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=3m26s)) and second problem ([Source](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=5m38s)] to be easier-than-anticipated, and they were essentially solved within a few years (by [2005](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=7m25s)).
 
-Since then, "it's all been about problem number three: the funding". ([Source](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=7m45s))
+Since then, "it's all been about problem number three: the funding" ([Source](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=7m45s)). [Aubrey estimates](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=9m32s) that the necessary research could be done three times faster if SENS had ten times more money (so, $40-50 million/year).
 
-TODO: Continue to summarize his talk.
+# How can I help?
