@@ -21,6 +21,7 @@
         1. You should be redirected to a GitHub page with an in-browser editor showing the document as un-formatted Markdown (.md) text.
         1. Make the change to the file that you want to make.
         1. Scroll to the bottom of the page and click the green 'Commit changes' / 'Commit new file' button.
-1. Submit a "pull request" (in other words: click a button asking us to accept your change).
+1. Submit a pull request.
+    - In other words: click a button asking us to accept your change.
     - See [GitHub Guides - Making a Pull Request](https://guides.github.com/activities/forking/#making-a-pull-request)
 1. We will examine your change and either accept it or ask you to change something about it.
