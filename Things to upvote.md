@@ -1,11 +1,13 @@
 
 
-# YouTube videos
+# YouTube
+
+## Videos
 - Any of Aubrey de Grey's talks.
     - TODO: Compile a list here maybe? For quicker clicking?
 
 
-# YouTube comments
+## Comments
 
 ### Posting this GitHub project's link
 ##### The comment
@@ -19,9 +21,17 @@ https://www.youtube.com/watch?v=r7eTSf9wkOM&lc=z221vjigwzfutdjmeacdp4324fczs2opt
 - I don't think Aubrey has an account yet on Medium.
 
 
-# Facebook posts
+# Facebook
+
+## Posts
 
 
+## Comments
 
-# Facebook comments
 
+# Quora
+
+## Posts
+
+## Answers
+- Scroll through the list of Aubrey's answers on this page and upvote them all: https://www.quora.com/profile/Aubrey-de-Grey
