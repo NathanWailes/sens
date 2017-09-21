@@ -17,7 +17,7 @@
 1. Make the change you want to make to *your copy* of the project.
     - Online steps:
         1. Click on the file.
-        1. Click the pencil icon in the top-left of the file.
+        1. Click the pencil icon in the top-right of the file.
         1. You should be redirected to a GitHub page with an in-browser editor showing the document as un-formatted Markdown (.md) text.
         1. Make the change to the file that you want to make.
         1. Scroll to the bottom of the page and click the green 'Commit changes' / 'Commit new file' button.
