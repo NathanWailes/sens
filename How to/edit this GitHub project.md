@@ -13,7 +13,7 @@
     - See [GitHub Guides - Fork the repository](https://guides.github.com/activities/forking/#fork)
 1. (Optional) If you want, clone the project to your computer.
     - In other words: make a copy of your copy on your computer. "Clone" is a git term which basically means "make a copy of a project".
-    - This is only helpful if you want to use a text-editing software that's on your computer instead of GitHub's online text-editor.
+    - This is only helpful if you want to use text-editing software that's on your computer instead of GitHub's online text-editor.
 1. Make the change you want to make to *your copy* of the project.
     - Online steps:
         1. Click on the file.
