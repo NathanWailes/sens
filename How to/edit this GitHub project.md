@@ -7,9 +7,12 @@
 
 # Step-by-step instructions
 1. Create a GitHub account.
-1. "Fork" this project (make a copy of it).
-    - TODO: Elaborate on this step.
-1. (Optional) If you want, "clone" the project to your computer. This just means "make a copy of your copy on your computer".
+1. Fork this project
+    - In other words: make a copy of this project. "Fork" is a git term that basically means "
+    - How: Click the button in the top-right that says "Fork".
+    - See [GitHub Guides - Fork the repository](https://guides.github.com/activities/forking/#fork)
+1. (Optional) If you want, clone the project to your computer.
+    - In other words: make a copy of your copy on your computer. "Clone" is a git term which basically means "make a copy of a project".
     - This is only helpful if you want to use a text-editing software that's on your computer instead of GitHub's online text-editor.
 1. Make the change you want to make to *your copy* of the project.
     - Online steps:
