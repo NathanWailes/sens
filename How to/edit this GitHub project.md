@@ -1,5 +1,5 @@
 # Background / Why we're using GitHub
-1. The information contained on this project is text, which would mean that normally the way to distribute contributions to it would be through a wiki format.
+1. The information contained in this project is text, which would mean that normally the way to distribute contributions to it would be through a wiki format.
 1. However, with wikis you need to worry about the quality of the contributions of the people you allow to make changes to the wiki.
     - There may be a way around this but I'm not aware of it.
 1. The advantage of using a version-control system like git (which is the technology underlying GitHub) is that all changes can be reviewed before being allowed. This means that we don't need to limit the suggestion of changes to a selected team of people to ensure that the quality of the changes remains high.
