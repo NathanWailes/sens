@@ -16,7 +16,7 @@
     - This is only helpful if you want to use text-editing software that's on your computer instead of GitHub's online text-editor.
 1. Make the change you want to make to *your copy* of the project.
     - Online steps:
-        1. Click on the file.
+        1. Click on the file you want to change.
         1. Click the pencil icon in the top-right of the file.
         1. You should be redirected to a GitHub page with an in-browser editor showing the document as un-formatted Markdown (.md) text.
         1. Make the change to the file that you want to make.
