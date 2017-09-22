@@ -6,8 +6,8 @@
 1. A potential future problem is that if a lot of people are submitting a lot of potential changes, and the changes are generally good ones, then the review process may become an unnecessary burden.
 
 # Step-by-step instructions
-1. Create a GitHub account.
-1. Fork this project
+1. [Create a GitHub account.](https://github.com/join)
+1. Fork this project.
     - In other words: make a copy of this project. "Fork" is a git term that basically means "copy". A more-precise definition of a fork is "a remote, server-side copy of a repository, distinct from the original" ([Source](https://www.atlassian.com/blog/git/git-branching-and-forking-in-the-enterprise-why-fork)).
     - How: Click the button in the top-right that says "Fork".
     - See [GitHub Guides - Fork the repository](https://guides.github.com/activities/forking/#fork)
