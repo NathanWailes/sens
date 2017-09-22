@@ -24,4 +24,4 @@
 1. Submit a pull request.
     - In other words: click a button asking us to accept your change.
     - See [GitHub Guides - Making a Pull Request](https://guides.github.com/activities/forking/#making-a-pull-request)
-1. We will examine your change and either accept it or ask you to change something about it.
+1. We will examine your change and either accept it, reject it outright, or ask you to change something about it.
