@@ -27,4 +27,3 @@ Since then, "it's all been about problem number three: the funding" ([Source](ht
      - The link may change, so just search around for it if the link's dead.
  - It would be helpful to have people help me gather links to YouTube videos and extract the transcripts to those videos.
    - I have instructions in this repo in the 'How to' folder on how to extract the transcript for a video from YouTube.
- - Create a step-by-step guide to explaining how 
