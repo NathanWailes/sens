@@ -1,2 +1,4 @@
+# As the name of this file suggests, this is a file that git uses to determine which folders and files it should not track changes to.
+
 /.idea/
 *.pyc
