@@ -29,6 +29,6 @@
 
   I'm also trying to organize information [here](https://github.com/NathanWailes/SENS) to be used to help raise money for the research he wants to fund.
   
-  Lloyd's response:
+- Lloyd's response:
   
   I do recall asking, when I was a child, why people don't live longer as long as they kept eating food.  If we eat food and can repair ourselves, then constant eating should lead to very long life.  Of course, by animal standards 80 years is a very long life, but it could be longer.  I have heard of breakthroughs that put us on the path to being able to regrow severed limbs, as some animals can.  Adding thirty years of reasonably good health to a human life does not strike me as the stuff of fantasy. Thanks for the tip-off.
