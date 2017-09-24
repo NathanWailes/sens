@@ -7,21 +7,7 @@
 
 # Step-by-step instructions
 1. [Create a GitHub account.](https://github.com/join)
-1. Fork this project.
-    - In other words: make a copy of this project that'll live on GitHub. "Fork" is a git term that basically means "copy". A more-precise definition of a fork is "a remote, server-side copy of a repository, distinct from the original" ([Source](https://www.atlassian.com/blog/git/git-branching-and-forking-in-the-enterprise-why-fork)).
-    - How: Click the button in the top-right that says "Fork".
-    - See [GitHub Guides - Fork the repository](https://guides.github.com/activities/forking/#fork)
-1. (Optional) If you want, clone your fork of the project to your computer.
-    - In other words: copy your cloud-copy to your computer (a 'local' copy). "Clone" is a git term which basically means "copy". A more-precise definition of a clone is "a local copy of some remote repository" ([Source](https://www.atlassian.com/blog/git/git-branching-and-forking-in-the-enterprise-why-fork)).
-    - This is only helpful if you want to use text-editing software that's on your computer instead of GitHub's online text-editor.
-1. Make the change you want to make to *your copy* of the project.
-    - Online steps:
-        1. Click on the file you want to change.
-        1. Click the pencil icon in the top-right of the file.
-        1. You should be redirected to a GitHub page with an in-browser editor showing the document as un-formatted Markdown (.md) text.
-        1. Make the change to the file that you want to make.
-        1. Scroll to the bottom of the page and click the green 'Commit changes' / 'Commit new file' button.
-1. Submit a pull request.
-    - In other words: click a button asking us to accept your change.
-    - See [GitHub Guides - Making a Pull Request](https://guides.github.com/activities/forking/#making-a-pull-request)
-1. We will examine your change and either accept it, reject it outright, or ask you to change something about it.
+1. Navigate to the file you want to edit.
+1. Click the pencil icon on the right side of the page, just above the body of the file.
+1. The body of the text should switch to an editor-mode.
+1. When you're finished making changes, scroll to the bottom and click the green 'Propose file change' button.
