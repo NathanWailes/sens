@@ -10,13 +10,13 @@
   
   Hi Lloyd,
 
-  I just saw your most-recent video (Q217 - Q12: Healthy body or healthy mind?) and thought that it was the perfect excuse to ask you something I'd been wanting to ask for a while:
+  I just saw your most-recent video ([Q217 - Q12: Healthy body or healthy mind?](https://www.youtube.com/watch?v=YnMLRfkdx2E)) and thought that it was the perfect excuse to ask you something I'd been wanting to ask for a while:
 
   Please consider doing a video about Aubrey de Grey and SENS!
 
   He seems brilliant to me (he has a PhD from the University of Cambridge), but the implications of his ideas are so far beyond people's everyday experience that he seems to have trouble getting people to pay attention to what he's saying.
 
-  You can see a recent TED talk that he gave here.
+  You can see a recent TED talk that he gave [here](https://www.youtube.com/watch?v=r7eTSf9wkOM).
 
   If you're short on time, his main ideas are that:
   bodies are analogous to machines like cars when it comes to aging, in that...
@@ -27,4 +27,4 @@
 
   He runs a nonprofit called SENS which takes in donations and allocates the money to research that he has judged crucial-but-ignored. Their current budget is $4 million/year, but he thinks they could be allocating $50 million/year and thus moving three times as quickly.
 
-  I'm also trying to organize information here to be used to help raise money for the research he wants to fund.
+  I'm also trying to organize information [here](https://github.com/NathanWailes/SENS) to be used to help raise money for the research he wants to fund.
