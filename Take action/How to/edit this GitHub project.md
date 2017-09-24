@@ -10,8 +10,9 @@
 1. Navigate to the file you want to edit.
 1. Click the pencil icon on the right side of the page, just above the body of the file.
 1. The body of the text should switch to an editor-mode.
-1. When you're finished making changes, scroll to the bottom and click the green 'Propose file change' button.
-1. You'll be brought to a new page that shows the changes in a color-coded way (it'll show all deleted and added text).
+1. Make the change(s) you want to make.
+1. Scroll to the bottom and click the green 'Propose file change' button.
+1. You'll be brought to a new page that shows the changes in a color-coded way.
 1. Click the green 'Create pull request' button.
-1. We will then either 1) accept your change, 2) reject it outright, or 3) ask you to change something.
+1. We will then either 1) accept your change, 2) reject it outright, or 3) ask you to change something about it.
 1. If you have any problems, feel free to email nathan.wailes@gmail.com!
