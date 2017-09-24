@@ -20,6 +20,85 @@
        The implications of this pattern for the lives of people who are in middle age or younger at the time that RHR is achieved is clear, but no less dramatic for that. Put simply, there is a very high probability that the 25-30 years of good health conferred on its recipients by the first-generation panel of rejuvenation therapies (defined as those which achieve RHR) will suffice for the development of much more thorough and comprehensive therapies, capable of delivering more like a century of extra life to those who are in relatively good health at the time those therapies arrive. This is where the longevity escape velocity (LEV) concept arises. The recipients of the first-generation therapies – the ones that gave only around 30 years of extra healthy life – will, at least if sociopolitical pressures do not intervene, mostly also be among the beneficiaries of the secondgeneration ones, since they will be in the same degree of health at that time as they were when the first-generation therapies arrived. The same logic of course applies indefinitely into the future, just so long as the rate of progress in improving the comprehensiveness of the therapies continues to outstrip the rate at which the remaining imperfections in those therapies allow the accumulation of eventually pathogenic damage.
 - [2006 - MIT Technology Review - Is Defeating Aging Only a Dream?](http://www2.technologyreview.com/sens/)
 - [2010.10.19 - WIRED - How Beer, Oprah and Sergey Brin Can Help Cure Aging](http://www.wired.com/2010/10/aubrey-de-grey/)
+  - Wired.com: The results from research into mouse longevity won’t necessarily be directly applicable to human biology. Nevertheless, you’ve made it clear such work is vital for getting someone like Oprah to help champion the anti-aging cause. When do you foresee yourself getting that kind of exposure?
+    
+    de Grey: Someone like Oprah is not really too keen to get too close in bed with people who don’t have mainstream credentials and authority. But it’s really changing fast. A month or two ago, one of my colleagues, Tony Atala, who runs an enormous group working in tissue engineering at Wake Forest, was on Oprah. He’s on my research advisory board and is associated with my journal and so on. Even though his work is not mainly focused on aging, the show was basically about aging. He was very, very gung-ho about the potential for regenerative medicine to postpone aging in the relatively foreseeable future.
+    
+    Wired.com: And mice are the key.
+    
+    de Grey: I do think it’s going to start with mice. What’s going to happen is the curmudgeons — the card-carrying gerontologists who think it’s very dangerous to be over-optimistic — will eventually recognize the data available to us from mice is so solid we can go out publicly and say, “It’s only a matter of time.” That’s going to take a panel of interventions in mice that’s so comprehensive we actually add two whole years to the lifespan of mice that are already in middle age before we start.
+    
+    That may be overcautious. We may be able to get gerontologists on board with a more modest result than that. However, at that point, game over. My job will be done. I can retire. Because that will be the point when Oprah will be all over it and the following day it will become impossible to get elected unless you have a manifesto commitment to have a war on aging.
+    
+    And there will be abundant people who are better than me at all the things I have to do at the moment, and I will no longer be necessary. And I shall fade away into glorious obscurity and you won’t be able to find me, even if you offer me a beer.
+    
+    Wired.com: Well, you’ll be in a pub probably.
+    
+    de Grey: Yes, but I won’t be in a pub with a journalist. [laughs]
+    
+    Wired.com: Two years ago, you told Wired.com that funding for your work was increasing every year. How has funding been since then?
+    de Grey: Very uneven. Obviously, last year was particularly bad for everybody. It was certainly bad for us, too. But looking at the overall trajectory, we haven’t succeeded in getting as much as a doubling year-on-year and we are determined to catch up. This year we have hopes of doing better. The main reason for that is the big restructuring of the foundation.
+    
+    Wired.com: Right, what happened there?
+    
+    de Grey: In the beginning, the only thing the Methuselah Foundation did was the longevity prizes for mice. Then, we started funding research directly. We thought it was a really cool idea to have one organization with two very complementary approaches to the same mission. But in fact, it didn’t really work, especially not in terms of messaging.
+    
+    You want prizes to be ways to attract people who get scared when you talk about science for more than ten seconds. So the language has to be very glitzy and superficial and populist. Whereas, a foundation that’s trying to get money to put toward research, you want to look really knowledgeable and responsible and low-key.
+    
+    Eventually, we bit the bullet and split the foundation in two. Now they operate separately with no overlap of personnel at all. I’m not associated with the Methuselah Foundation anymore, except informally as an advisor. Conversely, SENS is optimizing our messaging and we feel good about how things are going, but certainly we need far more money. We have a big shopping list.
+    
+    Wired.com: Are you optimistic you’ll eventually get what you need?
+    
+    de Grey: The things I’m telling you now are exactly what I was saying, more or less, five years ago or more. And so you may be thinking, what’s wrong? Why isn’t this message working? I have had a lot of exposure, and a lot of success in calling the bluff of people who have politically motivated reasons to try to marginalize what I’m saying. Clearly, there are people out there who understand aging is bad for you. Just like me.
+    
+    So what’s missing? How come I haven’t got a lot of money?
+    
+    The answer is simply that you need three things for a high-net-worth individual to put money into something like this, whether it be as a donation or an investment: 1) You’ve got to believe the goal is valuable. 2) You’ve got to believe the plan to solve that goal is feasible or at least promising. 3) You’ve got to believe the organization you’re thinking of giving the money to actually has the ability to execute it. (NW: This is exactly what VCs talk about. They care more about the team than the idea.)
+    
+    That’s why I’m optimistic right now. Splitting the foundation is the first step toward that. It has allowed us to really refine our messaging, but it also means we were able to bring people in new people. Now, as a team, we can inspire a vastly greater amount of confidence in the people who already are familiar with what we do, but have been holding back.
+    
+    As far as I’m concerned, it’s a very good thing more research is going to be done on Parkinson’s Disease. Sergey Brin discovering he is susceptible to Parkinson’s and promptly began plugging some insane amount of money into research. It’s an absolute disgrace it takes personal risk to get someone as supposedly intelligent as Sergey Brin to actually do something. And the only excuse I can give him, since he’s been aware of my stuff since like 2003, is that he looked at me and my organization and said, “Hmm, like the goal. Like the plan. Don’t like the organization.” And he hasn’t told me this face to face, but that’s my guess.
+    
+    Wired.com: For most of the billionaire philanthropists that travel in the same circles you do, out of the three things, is it mainly that they just don’t like your organization?
+    
+    de Grey: I think for a very large, a very sufficient proportion of such people, yes, it’s that third thing. Because I see these people a lot. I go to TED, and there’s no holding back when it comes to 1) the desirability of the goal, and 2) the demonstration of sufficient comprehension of what I’m talking about to understand they believe the plan is feasible. So yes, absolutely.
+    Wired.com: So it’s personal then?
+    
+    de Grey: I’d say it’s not even personal. When you’ve got a lot of money and people know you’ve got a lot of money, obviously everyone’s after it. You’ve got to have some way of deciding how to spend it.
+    
+    And I have a good deal of sympathy with the idea the Methuselah Foundation didn’t really give the right degree of professional persona that would give the right degree of confidence. It’s something we couldn’t necessarily fix overnight, either. It’s something that can only be built up over time, especially with management, the business side going out and actually communicating with these people the same way I have historically been. The Methuselah Foundation did look a bit too much like a simple fan club. I was the only person going out having any contact [with potential donors].
+    
+    (...)
+    
+    de Grey: I’ve found it frustrating the media, especially, are pretty much fixated on the longevity aspects and not on the health aspects. It wouldn’t annoy me so much if it was not so overdone. But even the most highbrow write-ups, like one inThe Economist a couple of years ago for example, every single one has the word “immortality” or “living forever” in the title of the article. It does wind me up a little bit.
+    
+    Wired.com: Why do you suppose they do that?
+    
+    de Grey: Sells papers. You don’t have to ask me, you’re the journalist.
+    
+    Wired.com: Press also helps get funding, no?
+    
+    de Grey: No, rather the opposite. It makes it sound like entertainment. It sounds like science fiction and not real science. It really actively detracts from my ability to get funding. (NW: Wow, I wouldn't have guessed that.)
+    
+    (...)
+    
+    Wired.com: There’s a good chance mitochondrial mutations may not necessarily be all that important to aging.
+    
+    de Grey: That’s right. Out of the seven things, that’s the only one where we cannot identify a particular major age-related pathology for which the thing in question is the dominant driver.
+    
+    Wired.com: Why put any time or resources towards solving a problem that may actually not be a problem?
+    
+    de Grey: That’s easy. Different experts are working on these different areas, so it’s not as though we’re taking any valuable resources away from one to put into another. And we’d feel pretty fucking silly if we fixed all these other six things and then people carried on dying on schedule and we found out we hadn’t actually taken the trouble to do the work to fix the problems with mitochondrial mutations at the same time. So my view has always been to be inclusive, to fix everything that might matter.
+    
+    Wired.com: On the other hand, cancer is probably going to be the toughest.
+    
+    de Grey: I feel that’s true, yes.
+    
+    Wired.com: Yet, it’s already an area with significant funding and research.
+    
+    de Grey: Well, you’ve got to look at it closely; 99.9 percent is going into ways in which we might delay cancer by 10 years. Which is a fine goal if you don’t expect to delay anything else by 10 years, right? But hello [laughs], it’s no good for me. So, to be perfectly honest, it’s a pretty stupid way of estimating the promise of a therapy in the first place.
+    
+    Even if things don’t move forward, incrementally they still move forward. And that’s why cancer has now caught up with cardiovascular disease in the U.S. as a cause of death. We need to put a little bit more money into the much more aggressive, longer-term, more ambitious but nevertheless eventually much more effective approaches that need to be explored. In particular, [OncoSENS] is in my view still the only game in town for a real solution to cancer.
 - [2013.07 - Life Extension Magazine - Interview with Aubrey de Grey](http://www.lifeextension.com/magazine/2013/7/Interview-with-Aubrey-de-Grey-PhD/Page-01)
 *LE: You recently inherited a large sum of money and chose to donate most of it to the SENS Foundation. Will you provide some details and explain your motives?
 AdG: My mother died in May 2011 and I was her only child; the upshot is that **I inherited roughly $16.5 million**. Of that, I assigned $13 million to SENS (I won’t bore you with the legal details, which were tedious in the extreme). It was pretty much a no-brainer for me: I’ve dedicated my life to this mission, and I dedicate all my time to it, so why not my money too? I retained enough to buy a nice house, but beyond that I have inexpensive tastes and I have no doubt that this is the best use of my wealth.
