@@ -6,6 +6,9 @@
 # Articles
 TODO: Summarize the articles below.
 
+- [2013.09.18 - TIME - Opinion by Aubrey de Grey - Google’s Calico: the War on Aging Has Truly Begun](http://ideas.time.com/2013/09/18/finally-the-war-on-aging-has-truly-begun-2/)
+  - In his 2014.07.28 talk at Google he says he was approached by Time to write this in reaction to the announcement of Calico (it was announced via Time magazine).
+  - *"Now is the right time for a commercial entity to get heavily involved. (...) With Google’s decision to direct its astronomical resources to a concerted assault on aging, that battle may have been transcended: once financial limitations are removed, curmudgeons no longer matter. That’s why I think it is no exaggeration to state that the end of the beginning may have arrived. I won’t go so far as to say that my crusading job is done, but for sure it just got a whole lot easier."*
 - [2015.12.28 - Quora - Aubrey's answer to "Does SENS Research Foundation have plans to start collaborating with, or to collaborate more closely with Calico, Human Longevity Inc., and/or Alcor Life Extension Foundation?"](https://www.quora.com/Does-SENS-Research-Foundation-have-plans-to-start-collaborating-with-or-to-collaborate-more-closely-with-Calico-Human-Longevity-Inc-and-or-Alcor-Life-Extension-Foundation)
   - [Aubrey:] Calico: we hope so, but **they have basically blown us off so far**. They are being quite secretive about their plans, but **from the range of people they are hiring they have not yet really got the message that damage repair is the way to go**.
 - [2016.11.24 - Quora - Aubrey's answer to "How is SENS research on longetivity different from Calico (owned by Google)?"](https://www.quora.com/How-is-SENS-research-on-longetivity-different-from-Calico-owned-by-Google)
