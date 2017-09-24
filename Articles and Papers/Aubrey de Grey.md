@@ -37,6 +37,18 @@ LE: Which of the SENS strategies would be the most difficult to achieve?
 AdG: I think it’s pretty clear that **the approaches for defeating cancer and for obviating mitochondrial mutations are the hardest, because they will both involve gene therapy, something we’re not at all good at yet.** Out of those two, I would say that the OncoSENS (the elimination of telomerase enzyme) is the harder, because it is much more complex and also because it involves gene targeting rather than just insertional gene therapy.*
 - [2013.09.28 - Aubrey de Grey - Google vs Death: an Anti Aging Initiative](https://www.youtube.com/watch?v=1_Cr3XeVk7k)
   - He discusses the recent announcement of Calico
+- [2015.04.11 - DailyMail - He's an old Harrovian multi-millionaire with a wife and two girlfriends](http://www.dailymail.co.uk/news/article-3035091/He-s-old-Harrovian-multi-millionaire-wife-two-girlfriends-s-toast-California-despite-er-looks-says-s-cracked-biological-code-let-live-1-000.html)
+  - *PayPal boss Peter Thiel (worth £1.5 billion) donated £2.4 million to de Grey's anti-ageing institute Strategies for Engineered Negligible Senescence (SENS). Senescence is scientific jargon for ageing.*
+    
+    (...)
+    
+    *De Grey is notoriously eccentric. He refuses to carry a mobile phone ('anti-social, nasty things') and has never learned to drive due to a 'mental block'. 'Cars can kill people without it being the driver's fault,' he says. He gives interviews to 'spread the word' and has written several anti-ageing books.*
+    
+    *Last year he featured in a critically acclaimed independent movie, The Immortalists.*
+    
+    *De Grey and his biologist wife Adelaide, 19 years his senior, have an unconventional marriage and he cheerfully admits to having 'two younger girlfriends', aged 45 and 24.*
+    
+    *Isn't juggling the needs of three women enough to age any man prematurely? He laughs: 'It keeps me busy.'*
 - [2015.06.01 - Rejuvenation Research - Longevity Sticker Shock: The One Remaining Obstacle to Widespread Credentialed Support for Rejuvenation Biotechnology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4491156/#B2)
    - Summary / Key Quotes:
      - There was recently a report from the United Kingdom on the likely trajectory of anti-aging biomedical research.
