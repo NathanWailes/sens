@@ -1,4 +1,5 @@
 # About
+- Full name: Nikolas Lloyd
 - He runs the YouTube channel "[Lindybeige](https://www.youtube.com/channel/UC9pgQfOXRsp4UKrI8q0zjXQ)".
 - 526,000 subscribers as of 2017.09.24.
 
