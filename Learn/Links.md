@@ -4,6 +4,7 @@ The idea here is to collect links for more information that would normally show 
 # SENS
 - [sens.org](http://www.sens.org/)
 - [Wikipedia - Strategies for Engineered Negligible Senescence](https://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence)
+- [Reddit - /r/sens](https://www.reddit.com/r/sens/)
 
 # Aubrey de Grey
 - [Quora - Aubrey de Grey](https://www.quora.com/profile/Aubrey-de-Grey)
