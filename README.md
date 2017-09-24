@@ -20,9 +20,7 @@ Aubrey found the first problem ([Source](https://www.youtube.com/watch?v=PX5bes7
 Since then, "it's all been about problem number three: the funding" ([Source](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=7m45s)). [Aubrey estimates](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=9m32s) that the necessary research could be done three times faster if SENS had ten times more money (so, $40-50 million/year).
 
 # How can I help?
- - Sign up now so that you don't forget.
-     - Send an email to nathan.wailes@gmail.com, or
-     - If you know how to, add yourself to the 'Volunteers.md' document.
+ - Email me at nathan.wailes@gmail.com.
  - To learn how to edit this GitHub project, see [SENS - How to edit this GitHub Project](https://github.com/NathanWailes/SENS/blob/master/How%20to/edit%20this%20GitHub%20project.md)
      - The link may change, so just search around for it if the link's dead.
  - It would be helpful to have people help me gather links to YouTube videos and extract the transcripts to those videos.
