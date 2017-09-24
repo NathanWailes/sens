@@ -21,7 +21,7 @@ Since then, "it's all been about problem number three: the funding" ([Source](ht
 
 # How can I help?
  - Email me at nathan.wailes@gmail.com.
- - To learn how to edit this GitHub project, see [SENS - How to edit this GitHub Project](https://github.com/NathanWailes/SENS/blob/master/How%20to/edit%20this%20GitHub%20project.md)
+ - To learn how to edit this GitHub project, see [SENS - How to edit this GitHub Project](https://github.com/NathanWailes/SENS/blob/master/Take%20action/How%20to/edit%20this%20GitHub%20project.md)
      - The link may change, so just search around for it if the link's dead.
  - It would be helpful to have people help me gather links to YouTube videos and extract the transcripts to those videos.
    - I have instructions in this repo in the 'How to' folder on how to extract the transcript for a video from YouTube.
