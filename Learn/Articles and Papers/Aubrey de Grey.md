@@ -100,20 +100,33 @@
     
     Even if things don’t move forward, incrementally they still move forward. And that’s why cancer has now caught up with cardiovascular disease in the U.S. as a cause of death. We need to put a little bit more money into the much more aggressive, longer-term, more ambitious but nevertheless eventually much more effective approaches that need to be explored. In particular, [OncoSENS] is in my view still the only game in town for a real solution to cancer.
 - [2013.07 - Life Extension Magazine - Interview with Aubrey de Grey](http://www.lifeextension.com/magazine/2013/7/Interview-with-Aubrey-de-Grey-PhD/Page-01)
-*LE: You recently inherited a large sum of money and chose to donate most of it to the SENS Foundation. Will you provide some details and explain your motives?
-AdG: My mother died in May 2011 and I was her only child; the upshot is that **I inherited roughly $16.5 million**. Of that, I assigned $13 million to SENS (I won’t bore you with the legal details, which were tedious in the extreme). It was pretty much a no-brainer for me: I’ve dedicated my life to this mission, and I dedicate all my time to it, so why not my money too? I retained enough to buy a nice house, but beyond that I have inexpensive tastes and I have no doubt that this is the best use of my wealth.
-LE: Who are the other major donors to the SENS Foundation, and what proportion of the budget is covered by the money you donated?
-AdG: My donation will be spent over a period of about five years, and it roughly doubles the budget we had previously, from $2 million annually to $4 million. **The number one external donor remains our stalwart supporter Peter Thiel.** Additionally, another internet entrepreneur, Jason Hope, has recently begun to contribute comparable sums.
-(...)
-LE: What is advantageous and what is disadvantageous about the money spent on aging research by the National Institute on Aging (NIA, a branch of the US federal government’s National Institutes of Health)?
-AdG: It’s pretty much all advantageous - just not nearly as advantageous as it could be. **There is pitifully little money going into the search for interventions to postpone aging**, and of what there is, pitifully little is focused on late-onset interventions.
-(...)
-LE: For which of your SENS strategies would success achieve the most additional healthy years?
-AdG: **No one strategy would achieve very much on its own - certainly not as much as ten years, probably not even five.**
-LE: Which of the SENS strategies has the best prospect for success first?
-AdG: A couple of the strategies are already in clinical trials for some relevant conditions - stem cells for various things, including Parkinson’s disease, and vaccination against extracellular debris for Alzheimer’s.
-LE: Which of the SENS strategies would be the most difficult to achieve?
-AdG: I think it’s pretty clear that **the approaches for defeating cancer and for obviating mitochondrial mutations are the hardest, because they will both involve gene therapy, something we’re not at all good at yet.** Out of those two, I would say that the OncoSENS (the elimination of telomerase enzyme) is the harder, because it is much more complex and also because it involves gene targeting rather than just insertional gene therapy.*
+  
+  LE: You recently inherited a large sum of money and chose to donate most of it to the SENS Foundation. Will you provide some details and explain your motives?
+  
+  AdG: My mother died in May 2011 and I was her only child; the upshot is that **I inherited roughly $16.5 million**. Of that, I assigned $13 million to SENS (I won’t bore you with the legal details, which were tedious in the extreme). It was pretty much a no-brainer for me: I’ve dedicated my life to this mission, and I dedicate all my time to it, so why not my money too? I retained enough to buy a nice house, but beyond that I have inexpensive tastes and I have no doubt that this is the best use of my wealth.
+  
+  LE: Who are the other major donors to the SENS Foundation, and what proportion of the budget is covered by the money you donated?
+  
+  AdG: My donation will be spent over a period of about five years, and it roughly doubles the budget we had previously, from $2 million annually to $4 million. **The number one external donor remains our stalwart supporter Peter Thiel.** Additionally, another internet entrepreneur, Jason Hope, has recently begun to contribute comparable sums.
+  
+  (...)
+  
+  LE: What is advantageous and what is disadvantageous about the money spent on aging research by the National Institute on Aging (NIA, a branch of the US federal government’s National Institutes of Health)?
+  
+  AdG: It’s pretty much all advantageous - just not nearly as advantageous as it could be. **There is pitifully little money going into the search for interventions to postpone aging**, and of what there is, pitifully little is focused on late-onset interventions.
+  
+  (...)
+  
+  LE: For which of your SENS strategies would success achieve the most additional healthy years?
+  
+  AdG: **No one strategy would achieve very much on its own - certainly not as much as ten years, probably not even five.**
+  LE: Which of the SENS strategies has the best prospect for success first?
+  
+  AdG: A couple of the strategies are already in clinical trials for some relevant conditions - stem cells for various things, including Parkinson’s disease, and vaccination against extracellular debris for Alzheimer’s.
+  
+  LE: Which of the SENS strategies would be the most difficult to achieve?
+  
+  AdG: I think it’s pretty clear that **the approaches for defeating cancer and for obviating mitochondrial mutations are the hardest, because they will both involve gene therapy, something we’re not at all good at yet.** Out of those two, I would say that the OncoSENS (the elimination of telomerase enzyme) is the harder, because it is much more complex and also because it involves gene targeting rather than just insertional gene therapy.
 - [2013.09.28 - Aubrey de Grey - Google vs Death: an Anti Aging Initiative](https://www.youtube.com/watch?v=1_Cr3XeVk7k)
   - He discusses the recent announcement of Calico
 - [2015.04.11 - DailyMail - He's an old Harrovian multi-millionaire with a wife and two girlfriends](http://www.dailymail.co.uk/news/article-3035091/He-s-old-Harrovian-multi-millionaire-wife-two-girlfriends-s-toast-California-despite-er-looks-says-s-cracked-biological-code-let-live-1-000.html)
