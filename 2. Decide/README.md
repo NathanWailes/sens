@@ -1,1 +1,1 @@
-The idea here is to organize all discussion over what course of action we should take.
+The idea here is to organize all investigations into what course of action we should take.
