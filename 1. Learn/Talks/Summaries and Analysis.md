@@ -117,3 +117,23 @@
   - A: So, **it's really good news right now**, actually. The situation maybe two years ago was that there were two areas that had made hardly any progress for the previous decade. One of them was MITOSENS, dealing with mitochondrial mutations, and the other was GLYCOSENS, the crosslink problem, where the extracellular matrix becomes less elastic. In both those cases, over the past two years, we have seen really good progress, it's got everything moving again. (...) On the mitochondrial side...I think **at this point, everybody is taking us seriously, everybody is taking the idea seriously, it's a very different world than it was even two years ago.**
 - 3:18 - Q: What about the most-developed areas; what we could expect–when we could expect an intervention for humans appear? Probably it will be some next decades for some damages...?
   - A: Well, actually, **things are going really fast in a lot of areas now.**
+
+#### [2017.08.31 - Demography Today - Aubrey de Grey - How old can we get?](https://www.youtube.com/watch?v=WShyvsfszx0)
+- He talks about how more and more people are reaching 60, 70, 80, 90.
+- 7:44 - Q: Why aren't we constantly beating the world-record for longevity?
+- 9:30 - He tells the story of Izumi, a Japanese man listed in the Guiness book of records as the second-oldest person ever, and it turned out to be his brother.
+- 10:30 - Recordkeeping is getting better, but the oldest people were still born in times when recordkeeping was bad.
+- 11:30 - The reason we need accurate data is to be able to identify trends.
+- 11:40 - You especially want to avoid systematic bias.
+- 13:24 - Q: So who should do the verifying? A: The Los Angeles Gerontology Research Group. They're 'amateurs' but they're very good at what they do.
+- 15:20 - There's a problem: Most published (academic) analyses of super-centenarian data are spectacularly bad.
+  - He goes into a particular example of a paper that was published in Nature.
+- 17:40 - It's not clear that it's possible to derive conclusions from super-centenarian data since there's so little of it.
+- 18:18 - Main idea of the talk: "Actually, we can do a lot more in terms of the analysis of this small amount of data than people have previously realized."
+- 18:35 - When you study the ages of death of people in a given population, what you are really trying to do is extract from the data the risk of (probability of) death at any given age, which is called the mortality rate.
+- 19:25 - It turns out to be hard to do that with small amounts of data. With large amounts of data, you can just the straightforward approach of seeing what proportion of people survived the year.
+- 20:39 - With small amounts of data, you have a tension between granularity and scatter.
+  - "Scatter" is the deviation of each bucket's data-point from the bucket's underlying "true probability".
+    - Example not from the video: if you only have one person of age 110, and he survives to his 111th birthday, using a one-year bucket would result in a datapoint for age 110 of a 100% probability of surviving.
+  - "Granularity" is the ability to detect deviations of particular time-frames' underlying mortality rate from the longer-term trend.
+    - Example not from the video: If people are more likely to die in college, but you use a bucket size of ten years (0-10, 10-20, 20-30, etc.), then that truth may not be easy to spot.
