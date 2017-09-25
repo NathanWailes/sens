@@ -21,4 +21,4 @@ Since then, "it's all been about problem number three: the funding" ([Source](ht
 
 # How can I help?
  - Email me at nathan.wailes@gmail.com.
- - To learn how to edit this GitHub project, see [SENS - How to edit this GitHub Project](https://github.com/NathanWailes/SENS/blob/master/3.%20Act/How%20to/edit%20this%20GitHub%20project.md)
+ - To learn how to edit this GitHub project, see [How to edit this GitHub Project](https://github.com/NathanWailes/SENS/blob/master/3.%20Act/How%20to/edit%20this%20GitHub%20project.md)
