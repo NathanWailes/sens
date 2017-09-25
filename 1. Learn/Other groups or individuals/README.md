@@ -15,4 +15,4 @@ For example, one way it could be useful is for understanding the situations / po
   
   Moderator: So a similar company to other companies that are out there, with a fancier name?
   
-  Aubrey: I would say that definitely **their hearts are in the right place**, but they are a regular, perfectly normal company. They want to make profits fairly soon. 
+  Aubrey: I would say that definitely **their hearts are in the right place**, but they are a regular, perfectly normal company. **They want to make profits fairly soon.**
