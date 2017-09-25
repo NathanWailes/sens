@@ -1,6 +1,3 @@
-# Rationale
-The idea here is to collect links for more information that would normally show up in a README and keep the README focused on only the most essential information that new visitors to this repo must understand.
-
 # SENS
 - [sens.org](http://www.sens.org/)
 - [Wikipedia - Strategies for Engineered Negligible Senescence](https://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence)
@@ -9,6 +6,19 @@ The idea here is to collect links for more information that would normally show 
 # Aubrey de Grey
 - [Quora - Aubrey de Grey](https://www.quora.com/profile/Aubrey-de-Grey)
 - [Wikipedia - Aubrey de Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey)
-
-# Ending Aging
 - [Wikipedia - Ending Aging](https://en.wikipedia.org/wiki/Ending_Aging)
+
+# The Methuselah Foundation
+- [The Methuselah Foundation](https://www.mfoundation.org/)
+
+# Closely-related entities
+- [Fight Aging!](https://www.fightaging.org/)
+- [LEAF - Life Extension Advocacy Foundation](https://www.leafscience.org/)
+  - [Lifespan.io](https://www.lifespan.io/)
+
+# Online Communities
+
+- Reddit
+  - [/r/GrassrootsLongevity/](https://www.reddit.com/r/GrassrootsLongevity/)
+  - [/r/longevity/](https://www.reddit.com/r/longevity/)
+  - [/r/sens/](https://www.reddit.com/r/sens/)
