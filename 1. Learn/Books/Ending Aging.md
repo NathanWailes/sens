@@ -2,10 +2,21 @@
 
 # High-level summary
 
-- Preface: Aubrey emphasizes that our action or inaction has big consequences, thanks his collaborators for helping to get the book written, and adds a disclaimer for scientists that this book is meant for a general audience and is missing some detail that may make it seem flawed.
+- Preface:
+  - Aubrey emphasizes that our action or inaction has big consequences,
+  - thanks his collaborators for helping to get the book written, and
+  - adds a disclaimer for scientists that this book is meant for a general audience and is missing some detail that may make it seem flawed.
 #### Part One
-1. The Eureka Moment: Aubrey explains the Big Idea that inspired this book: that repairing the damage caused by metabolism would be a far easier way to fight aging than the prevailing approach of trying to modify metabolism to not create the damage in the first place.
-2. Wake Up--Aging Kills!: Aubrey argues that aging causes far more harm than any other source of harm, he explains that he wrote the book to convince the public that it really is possible to dramatically increase lifespans within our lifetime, he explains that there is
+1. The Eureka Moment
+    - Aubrey describes the Big Idea that inspired this book (and how he came to it): that repairing the damage caused by metabolism would be a far easier way to fight aging than the prevailing approach of trying to modify metabolism to not create the damage in the first place.
+2. Wake Up--Aging Kills!
+    - Aubrey uses the number of deaths and years of debilitation caused by aging to argue that aging causes far more harm than any other source of harm,
+    - he explains that he wrote the book to convince the public that it really is possible to dramatically increase lifespans within our lifetime,
+    - he explains that there is a 'pro-aging trance' where otherwise-reasonable people will not discuss this topic reasonably, perhaps as a psychological defense a la "if you can't fix it, don't worry about it",
+    - he explains that no reputable challenge to the SENS strategy has been put forth, despite a high-profile call for them,
+    - he provides an overview of the remaining chapters,
+    - he clarifies the overall prediction he is making: a 50% chance of success within 30 years given adequate funding,
+    - he stresses the importance of small private donations early-on to bootstrap the strategy.
 3. Demystifying Aging
 4. Engineering Rejuvenation
 #### Part Two
