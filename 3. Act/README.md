@@ -1,2 +1,2 @@
-- The idea for this directory is to gather only that information which is necessary for volunteers to take non-deliberatory action (eg outreach).
+- The idea for this directory is to gather only that information which is necessary for people to take non-deliberatory action (eg outreach).
 - The output of the 'Decide' directory should be best-practices that are also stored in this directory, with links back to allow volunteers to understand the investigation that went into deciding on the practice.
