@@ -43,11 +43,11 @@
 - Aubrey emphasizes that our action or inaction has big consequences, thanks his collaborators for helping to get the book written, and adds a disclaimer for scientists that this book is meant for a general audience and is missing some detail that may make it seem flawed.
 - Aubrey wrote parts One and Three (which deal with the big picture), and his collaborator Michael Rae took charge of writing Part Two, which explains each of the seven different categories of damage in detail and how each might be repaired.
 ## Part One
-### 1. The Eureka Moment
+### 1. The Eureka Moment (5pp)
 - On June 25, 2000, Aubrey was in bed after a day at an anti-aging brainstorming workshop, thinking about how difficult it would be to end aging with the traditional biogerontological approach of attempting to understand how human metabolism works well enough to create therapies that would modify our metabolism so that it doesn't create damage.
 - Biologists of aging had spent decades studying aging as "an almost hopelessly complex tragedy about which everyone could theorize and argue, but about which nothing could fundamentally be done."
 - "That night, I swept aside all that complexity, revealing a new simplicity in a complete redefinition of the problem. To intervene in aging, I realized, didn't require a complete understanding of all the myriad interacting processes that *contribute to* aging damage. To design therapies, all you have to understand is aging damage *itself*: the molecular and cellular lesions that impair the structure and function of the body's tissues. Once I realized that simple truth, it became clear that we are far closer to real solutions to treating aging as a biomedical problem, amenable to therapy and healing, than it might otherwise seem."
-### 2. Wake Up--Aging Kills!
+### 2. Wake Up--Aging Kills! (11pp)
 - Q: How many healthy, youthful years in total do you think you could add to people's lives, in your life?
 - A: The ultimate purpose of this book is to show you that you could add many more years than you may currently think.
 - In this chapter I will explain the magnitude of what our efforts could achieve.
@@ -97,7 +97,7 @@
   - This assumes funding for this effort is increased such that the research that *can* be done *is* done.
 - Small amounts of money will be "pivotal" early-on to fund the relatively-less-expensive mouse research that will get society excited enough to supply the necessary larger amount funding into the effort.
 - This book focuses on convincing readers of the *practicality* of radical life extension; if you want answers to questions about the *desirability* of life extension, check my website.
-### 3. Demystifying Aging
+### 3. Demystifying Aging (20pp)
 - There are people in the pro-aging trance who believe that aging will probably eventually be cured, but also believe that the chance of that happening soon is zero.
 - The goal of this chapter is to convince these people that the probability of a cure relatively soon is at least not zero.
 - In this chapter I am going to debunk the idea that aging is a phenomenon unlike all other health conditions.
@@ -192,14 +192,63 @@
 #### Know Your Enemy
 
 ### 10 Putting the Zombies to Rest
+#### Attack of the Clones
+#### State of the Forces Report
+#### Balanced Budgets
+#### Old Soldiers Never Die...
+#### ...They Just Fade Away
+#### When Bad Generals Lead Good Armies
+#### Taking the Full Toll
+#### Slash-and-Burn for New Growth
+#### Smells like Gleevee
+#### Light Kills Vampires
+#### The Molecular Swiss Army Knife
+#### Switch the Hacksaw with the Toothpick
+#### PRO-Suicide Counseling
+#### Know Your Enemy
+#### Deadly Combat in the Battle of the Buldge
+#### Doing It the Old-fashioned Way
+#### Fat for the Fire
+#### *Really* Trimming the Fat
+#### Night of the Living Dead
+#### Putting the Zombies to Rest
+#### Silver Bullets
 
-### 11. New Cells for Old
+### 11. New Cells for Old (49pp)
+#### The Master Cells: Accept No Substitutes
+#### Why We Need Them
+#### Throwing Away the Key to the Medicine Chest
+#### The Nicodemus Solution
+#### Frozen Embryos, Frozen Science
+#### False Dawn
+#### Bad Wizards *and* Bad Men
+#### Action Now for Science and Medicine
 
-### 12. Nuclear Mutations and the Total Defeat Of Cancer
+### 12. Nuclear Mutations and the Total Defeat Of Cancer (46pp)
+#### It *Is* Broke. We *Can't* Fix It
+#### Who's Afraid of the Big Bad Mutations?
+#### Mutations: Few, and Not Far Between
+#### The Times, Not the Genes, They Are A-Changin'
+#### The Exception That Creates the Rule
+#### A 2015 Challenge
+#### Making Cancer Wilt Away
+#### So Crazy, It Just Might Work
+#### What Happens When We Take Telomerase Away?
+#### What ABout This Periodic Stem Cell Replenishment?
+#### Does WILT Underestimate Cancer's Evolutionary Ingenuity?
 
 ## Part Three
-### 13. Getting from Here to There: The War on Aging
+### 13. Getting from Here to There: The War on Aging (18pp)
+#### The Intensity of the War on Aging, and Its Consequent Likely Duration
+#### Why "the War on Aging"?
+#### Hippocrates and Gelsinger
 
-### 14. Bootstrapping Our Way to an Ageless Future
+### 14. Bootstrapping Our Way to an Ageless Future (14pp)
+#### Evolution Didn't Leave Notes
+#### The Two-Speed Pace of Technology
+#### Longevity Escape Velocity
+#### The Political and Social Significance of Discussing LEV
+#### Quantifying Longevity Escape Velocity More Precisely
 
-### 15. War Bonds for the Campaign Against Aging
+
+### 15. War Bonds for the Campaign Against Aging (6pp)
