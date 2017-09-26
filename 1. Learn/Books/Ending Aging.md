@@ -2,7 +2,7 @@
 
 #### How to contribute to the summary
 - The high-level summary basically aims to take groups of paragraphs and combine them into a more-general description of what is discussed, or if there's a main idea being built-up to or argued for, it'll list that idea.
-- The in-depth summary basically summarizes things at the paragraph-level, although not strictly: if two paragraphs are talking about the same main idea, they'll be combined into a single point, and if a single paragraph contains two important ideas, they'll both be listed.
+- The low-level summary basically summarizes things at the paragraph-level, although not strictly: if two paragraphs are talking about the same main idea, they'll be combined into a single point, and if a single paragraph contains two important ideas, they'll both be listed.
 
 # High-level summary
 - Preface:
@@ -37,7 +37,7 @@
 15. War Bonds for the Campaign Against Aging
 
 
-# In-depth summary
+# Low-level summary
 
 ### Preface
 - Aubrey emphasizes that our action or inaction has big consequences, thanks his collaborators for helping to get the book written, and adds a disclaimer for scientists that this book is meant for a general audience and is missing some detail that may make it seem flawed.
