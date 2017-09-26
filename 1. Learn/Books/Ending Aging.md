@@ -12,7 +12,7 @@
 1. The Eureka Moment
     - The Big Idea that inspired this book and movement is that repairing the damage caused by metabolism would be a far easier way to stop aging than the prevailing approach of trying to modify metabolism to not create the damage in the first place.
 2. Wake Up--Aging Kills!
-    - Aging is the worst problem in the world, and because up until now there's been nothing we can do about it, people default to a "pro-aging trance", which makes it harder to get them to help find a final cure now that we're in a position to do so.
+    - Aging is the worst problem in the world, and because up until now there's been nothing we could do about it, people default to a "pro-aging trance", which makes it harder to get them to help find a final cure now that we're in a position to do so.
 3. Demystifying Aging
 4. Engineering Rejuvenation
 #### Part Two
@@ -127,6 +127,7 @@
 - There are people in the pro-aging trance who believe that aging will probably eventually be cured, but also believe that the chance of that happening soon is zero.
 - The goal of this chapter is to convince these people that the probability of a cure relatively soon is at least not zero.
 - In this chapter I am going to debunk the idea that aging is a phenomenon unlike all other health conditions.
+- TODO: Continue this.
 #### The Illusory Boundary Between Aging and Disease
 #### Why Aging Doesn't Need a Timer
 #### The Corollary That Even Most Experts Overlook
@@ -276,5 +277,15 @@
 #### The Political and Social Significance of Discussing LEV
 #### Quantifying Longevity Escape Velocity More Precisely
 
-
 ### 15. War Bonds for the Campaign Against Aging (6pp)
+- If SENS works, you have a strong chance of not dying from aging.
+- How soon SENS works depends on when the funding really gets serious, which depends on when robust mouse rejuvenation happens.
+- "The key question for each of us is, 'What am I going to do about it?'"
+- First, take care of your health in the usual ways (diet and exercise).
+- Second, "hasten the day when the battle is well and truly joined."
+  - Lobby for more funding for rejuvenation research,
+  - Lobby for lifting restrictions on federal funding to embryonic stem cell research in the U.S.
+  - Donate to the Methuselah Foundation.
+- Recap of the reason private donations are so important:
+  - The reason this research isn't being funded by governments is "a mutually-reinforcing ring of poltically directed funding restrictions, scientific over-caution in public statements and grant requests, and public opinion".
+  - TODO: Continue this.
