@@ -98,20 +98,98 @@
 - Small amounts of money will be "pivotal" early-on to fund the relatively-less-expensive mouse research that will get society excited enough to supply the necessary larger amount funding into the effort.
 - This book focuses on convincing readers of the *practicality* of radical life extension; if you want answers to questions about the *desirability* of life extension, check my website.
 ### 3. Demystifying Aging
+- There are people in the pro-aging trance who believe that aging will probably eventually be cured, but also believe that the chance of that happening soon is zero.
+- The goal of this chapter is to convince these people that the probability of a cure relatively soon is at least not zero.
+- In this chapter I am going to debunk the idea that aging is a phenomenon unlike all other health conditions.
+#### The Illusory Boundary Between Aging and Disease
+#### Why Aging Doesn't Need a Timer
+#### The Corollary That Even Most Experts Overlook
+#### Why Fixing Aging Is *Easier* than Fixing Similarly Complex Machines
+#### Postponed Aging in the Lab: No Longer Just Theory
+#### Calorie Restriction and Its Emulation: A False Dawn
+#### Not Good Enough--But Better Than Nothing
 
 ### 4. Engineering Rejuvenation
+#### A Caveat: Why Prevention Is Usually Better than Cure
+#### But Only Usually...
+#### Worst of Both Worlds, or Best?
+#### The Devil Is in the Detail
 
 ## Part Two
 
-### 5. Meltdown of the Cellular Power Plants
+### 5. Meltdown of the Cellular Power Plants (38pp)
+#### Free Radicals: A Brief Primer
+#### Everything You Know Is Wrong
+#### Forget the Quality, Feel the Quantity
+#### SOS: Survival of the Slowest
+#### Recycling Cellular Trash
+#### Hiding Behind Clean Membranes
+#### The "Reductive Hotspot Hypothesis"
+#### Upstream of a Blocked Dam
+#### Learning from the Great Mr. Nobody
+#### The Safety Valve
+#### Don't Throw Your Junk in My Backyard, My Backyard...
+#### The New Mitochondrial Free Radical Theory of Aging
 
-### 6. Getting Off the Grid
+### 6. Getting Off the Grid (31pp)
+#### You Can't Stop a Moving Train (Safely!)
+#### The Best Bet: "Head for the Bomb Shelter!"
+#### The "Mitochondriopathies"
+#### To Boldly Go Where Evolution Has Gone Before
+#### Obstacles, Evolutionary and Otherwise
+#### Pirating Mother Nature's Intellectual Property
+#### Borrowed Ideas, Novel Solutions
+#### Inteins: Splitting the Difference
+#### Not TINA but TATA
+#### The Way Forward
 
-### 7. Upgrading the Biological Incinerators
+### 7. Upgrading the Biological Incinerators (43pp)
+#### The Waste of Your Life
+#### Cleaning Up Life's Messes
+#### Recycling's Dirty Details
+#### Incomplete Combustion
+#### Lysosomal Limitations and the Deadly Dregs
+#### Making the Link to Pathology
+#### Neurodegenerative Disease
+#### Macular Degeneration
+#### Toxic Waste Problem--Toxic Waste Solution
+#### A Quick-and-Dirty Test
+#### Tomb Raider
+#### Cleaning Out the Drain
+#### First Challenge: Identifying Suitable Enzymes
+#### Second Challenge: Getting Them to the Cells
+#### Third Challenge: Getting Them to the Lysosome
+#### Fourth Challenge: Potential Side Effects
+#### Inside, Outside
 
-### 8. Cutting Free of the Cellular Spider Webs
+### 8. Cutting Free of the Cellular Spider Webs (38pp)
+#### Mind-Forg'd Manacles
+#### "O Captive, Bound and Double-Ironed..."
+#### Alzheimer's, Amyloids, Aging
+#### New Targets, Old Rifles
+#### Freeing the Prisoners...or Letting Loose the Inmates?
+#### "Immune" from Plaque: The Beta-amyloid Vaccine
+#### A Fire in the Brain
+#### Snatching the Ore from the Smelter's Ashes
+#### The Next Beta-amyloid Vaccine
+#### Amyloid Vaccination: Beyond Alzheimer's
+#### A Jack-of-All-Amyloids?
+#### Open Possibilities
 
-### 9. Breaking the Shackles of AGE
+### 9. Breaking the Shackles of AGE (48pp)
+#### The Way We AGE
+#### Browning to Death
+#### Listening to Parmenion
+#### Less Is More...Is Worse
+#### "Radical" Proposal--Lukewarm Results
+#### Collateral Damage
+#### The Drug That Failed
+#### A SENS Serendipity
+#### Reverse-Engineering Serendipity
+#### The Manacles Fall Away
+#### From Darkness, Light
+#### Alagebrium and Beyond
+#### Know Your Enemy
 
 ### 10 Putting the Zombies to Rest
 
