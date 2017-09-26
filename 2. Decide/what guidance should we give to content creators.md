@@ -5,3 +5,4 @@
 - Problems:
   - TODO: Fill this out.
   - He uses the word "immortal"
+  - He lumps together SENS with other ideas that are arguably far further from being achievable (eg putting our brains into an entirely-robotic body).
