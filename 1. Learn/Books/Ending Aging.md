@@ -1,10 +1,36 @@
 - [Amazon - Ending Aging](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074)
 
 #### How to contribute to the summary
-- The high-level summary basically aims to take groups of paragraphs and combine them into a more-general description of what is discussed, or if there's a main idea being built-up to or argued for, it'll list that idea.
+- The high-level summary should try to boil each chapter down to a single sentence of its most important idea.
+- The mid-level summary basically aims to take groups of paragraphs and combine them into a more-general description of what is discussed, or if there's a main idea being built-up to or argued for, it'll list that idea.
 - The low-level summary basically summarizes things at the paragraph-level, although not strictly: if two paragraphs are talking about the same main idea, they'll be combined into a single point, and if a single paragraph contains two important ideas, they'll both be listed.
 
 # High-level summary
+- Preface:
+  - We all need to act now.
+#### Part One
+1. The Eureka Moment
+    - The Big Idea that inspired this book and movement is that repairing the damage caused by metabolism would be a far easier way to stop aging than the prevailing approach of trying to modify metabolism to not create the damage in the first place.
+2. Wake Up--Aging Kills!
+    - Aging is the worst problem in the world, and because up until now there's been nothing we can do about it, people default to a "pro-aging trance", which makes it harder to get them to help find a final cure now that we're in a position to do so.
+3. Demystifying Aging
+4. Engineering Rejuvenation
+#### Part Two
+5. Meltdown of the Cellular Power Plants
+6. Getting Off the Grid
+7. Upgrading the Biological Incinerators
+8. Cutting Free of the Cellular Spider Webs
+9. Breaking the Shackles of AGE
+10 Putting the Zombies to Rest
+11. New Cells for Old
+12. Nuclear Mutations and the Total Defeat Of Cancer
+#### Part Three
+13. Getting from Here to There: The War on Aging
+14. Bootstrapping Our Way to an Ageless Future
+15. War Bonds for the Campaign Against Aging
+
+
+# Mid-level summary
 - Preface:
   - Aubrey emphasizes that our action or inaction has big consequences,
   - thanks his collaborators for helping to get the book written, and
