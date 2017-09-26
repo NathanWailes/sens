@@ -1,9 +1,9 @@
 - [Amazon - Ending Aging](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074)
 
 #### How to contribute to the summary
-- The high-level summary should try to boil each chapter down to a single sentence relaying its most important idea.
-- The mid-level summary basically aims to take groups of paragraphs and combine them into a more-general description of what is discussed, or if there's a main idea being built-up to or argued for, it'll list that idea.
-- The low-level summary basically summarizes things at the paragraph-level, although not strictly: if two paragraphs are talking about the same main idea, they'll be combined into a single point, and if a single paragraph contains two important ideas, they'll both be listed.
+- The high-level summary should try to boil each chapter down to a single sentence relaying its most important idea. I would prefer that this be based on the mid-level summary.
+- The mid-level summary basically aims to take groups of paragraphs and combine them into a more-general description of what is discussed, or if there's a main idea being built-up to or argued for, it'll list that idea. I would prefer that this be based on the low-level summary.
+- The low-level summary basically summarizes things at the paragraph-level, although not strictly: if two paragraphs are talking about the same main idea, they'll be combined into a single point, and if a single paragraph contains two important ideas, they'll both be listed. I would prefer that this be the first summary worked on for each chapter, so that the high- and mid-level summaries are more accurate.
 
 # High-level summary
 - Preface:
