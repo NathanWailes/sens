@@ -1,5 +1,9 @@
 - [Amazon - Ending Aging](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074)
 
+#### How to contribute to the summary
+- The in-depth summary basically summarizes things at the paragraph-level, although not strictly: if two paragraphs are talking about the same main idea, they'll be combined into a single point, and if a single paragraph contains two important ideas, they'll both be listed.
+- The high-level summary basically aims to take groups of paragraphs and combine them into a more-general description of what is discussed, or if there's a main idea being built-up to or argued for, it'll list that idea.
+
 # High-level summary
 
 - Preface:
