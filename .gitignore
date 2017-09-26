@@ -1,4 +1,10 @@
 # As the name of this file suggests, this is a file that git uses to determine which folders and files it should not track changes to.
 
-/.idea/
+# Don't track the .idea folder that PyCharm creates when you create a PyCharm project.
+**/.idea/
+
+# Don't track the .pyc files that get generated when you run a Python file.
 *.pyc
+
+# Don't track Google API JSON credentials files.
+**client_secrets.json
