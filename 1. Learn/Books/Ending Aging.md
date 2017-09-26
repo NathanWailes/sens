@@ -2,10 +2,10 @@
 
 # High-level summary
 
-- Preface
+- Preface: Aubrey emphasizes that our action or inaction has big consequences, thanks his collaborators for helping to get the book written, and adds a disclaimer for scientists that this book is meant for a general audience and is missing some detail that may make it seem flawed.
 #### Part One
-1. The Eureka Moment
-2. Wake Up--Aging Kills!
+1. The Eureka Moment: Aubrey explains the Big Idea that inspired this book: that repairing the damage caused by metabolism would be a far easier way to fight aging than the prevailing approach of trying to modify metabolism to not create the damage in the first place.
+2. Wake Up--Aging Kills!: Aubrey argues that aging causes far more harm than any other source of harm, he explains that he wrote the book to convince the public that it really is possible to dramatically increase lifespans within our lifetime, he explains that there is
 3. Demystifying Aging
 4. Engineering Rejuvenation
 #### Part Two
@@ -26,6 +26,7 @@
 # In-depth summary
 
 ### Preface
+- Aubrey emphasizes that our action or inaction has big consequences, thanks his collaborators for helping to get the book written, and adds a disclaimer for scientists that this book is meant for a general audience and is missing some detail that may make it seem flawed.
 - Aubrey wrote parts One and Three (which deal with the big picture), and his collaborator Michael Rae took charge of writing Part Two, which explains each of the seven different categories of damage in detail and how each might be repaired.
 ## Part One
 ### 1. The Eureka Moment
