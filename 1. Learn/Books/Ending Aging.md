@@ -3,7 +3,7 @@
 # Summary
 
 ### Preface
-- Aubrey wrote parts One and Three (which deal with the big picture), and his collaborator Michael Rae took charge of writing Part Two, which explains each of the seven different cateogires of damage in detail and how each might be repaired.
+- Aubrey wrote parts One and Three (which deal with the big picture), and his collaborator Michael Rae took charge of writing Part Two, which explains each of the seven different categories of damage in detail and how each might be repaired.
 ## Part One
 ### 1. The Eureka Moment
 - On June 25, 2000, Aubrey was in bed after a day at an anti-aging brainstorming workshop, thinking about how difficult it would be to end aging with the traditional biogerontological approach of attempting to understand how human metabolism works well enough to create therapies that would modify our metabolism so that it doesn't create damage.
@@ -23,7 +23,17 @@
 - Analogy cont'd: The main reason so many more people disapprove of smoking now than fifty years ago is that there has been a large-scale realization by the public of its terrible health effects.
 - "My goal with this book, as for all my outreach work, is to inject momentum into a similar shift of public opinion concerning aging."
 #### The Motivation for the Pro-Aging Trance
+- I realize there's a huge anti-aging industry that the public is supportive of, but it aims only for modest postponement of aging.
+- The prospect of society eventually being able to eliminate aging as a cause of death "strikes terror into most people".
+  - The usual reaction is to worry about overpopulation, or only the wealthy benefiting, or dictators living forever, etc.
+- I am not saying these objections are dumb.
+- What shocks me is that people more-often-than-not resist discussing the topic seriously.
+  - They will change the subject.
+  - They will "relegate the conversation to an exchange of witicisms".
+  - They will "cast the opponent of aging as a deluded nincompoop".
+- The reason people are behaving this way is that ntil recently, aging has been inveitable, which makes it smarter to just put it out of one's mind.
 #### A Word About SENS Skepticism
+- In this section I will briefly describe where the debate of SENS's chances of success currently stands.
 #### Building a Case, Chapter by Chapter
 ### 3. Demystifying Aging
 
