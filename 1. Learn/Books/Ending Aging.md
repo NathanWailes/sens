@@ -56,7 +56,7 @@
 - In the industrialized world, aging causes 90% of deaths.
   - Comparison: So for every death from homicide, AIDS, car accidents, etc., nine other people die of aging.
 #### Why Did I Write This Book?
-- Answer: The pro-aging trance.
+- Answer: To break people out of the pro-aging trance.
 - Analogy: "Virtually all adults, smokers or not, support" the idea that we ought to prevent people from taking up smoking, and yet we (as a society) continue to allow cigarettes to be advertised. There is a disconnect there.
 - Analogy cont'd: The main reason so many more people disapprove of smoking now than fifty years ago is that there has been a large-scale realization by the public of its terrible health effects.
 - "My goal with this book, as for all my outreach work, is to inject momentum into a similar shift of public opinion concerning aging."
