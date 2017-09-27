@@ -294,9 +294,16 @@
 - Thus there exists some rate of progress that will allow us to "stave off aging indefinitely".
 - I think the term "longevity escape velocity" (LEV) sums that up pretty well.
 - One thing to note is that we can "accumulate lead time" in one period that we can use in a later more-slowly-advancing period.
-- In other words, LEV means we need to keep the overall level of damage in the body to a level that the body can work around.
-- Analogy: If normal life is like jumping off a cliff (where gravity is aging and touching the ground is death), and these therapies are like a jetpack, LEV is when you are on average not moving downward.
+- Another way to describe LEV is that we need to keep the overall level of damage in the body to a level that the body can work around.
+- LEV analogy: If normal life is like jumping off a cliff (where gravity is aging and touching the ground is death), and these therapies are like a jetpack, LEV is when you are on average not moving downward.
 #### The Political and Social Significance of Discussing LEV
+- Scientists have responded to my LEV concept with "blank incomprehension".
+- One reason is that the idea is "distant from the sort of thinking that they normally do".
+- Senior gerontologists don't want to be "seen as having anything to do with radical life extension, with all the uncertainties it will surely herald".
+- I won't avoid talking about LEV because it's important for people to understand what's at stake.
+- Billionaires are becoming more willing to contribute to world health.
+- SENS must be able to justify itself on the same terms despite initially primarily benefiting the wealthy.
+- The LEV concept is crucial to justify the initial expenditures
 #### Quantifying Longevity Escape Velocity More Precisely
 ### 15. War Bonds for the Campaign Against Aging (6pp)
 - If SENS works, you have a strong chance of not dying from aging.
