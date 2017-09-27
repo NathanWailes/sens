@@ -7,6 +7,9 @@
 
 # Terms to avoid
 
+#### Cure
+- I'm not sure about this one. I think I've heard Aubrey say that aging will never be "cured" the way that infectious diseases can be cured. But I'm not sure if that means that using the word "cure" should be avoided.
+
 #### Longevity
 - Aubrey says in his talks, "I work on health, not longevity".
 
