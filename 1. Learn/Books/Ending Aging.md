@@ -301,9 +301,9 @@
 - One reason is that the idea is "distant from the sort of thinking that they normally do".
 - Senior gerontologists don't want to be "seen as having anything to do with radical life extension, with all the uncertainties it will surely herald".
 - I won't avoid talking about LEV because it's important for people to understand what's at stake.
-- Billionaires are becoming more willing to contribute to world health.
-- SENS must be able to justify itself on the same terms despite initially primarily benefiting the wealthy.
-- The LEV concept is crucial to justify the initial expenditures
+- Billionaires are becoming more willing to contribute to world health projects.
+- SENS must be able to justify itself on the same humanitarian terms as traditional world health projects despite initially primarily benefiting the wealthy.
+- The LEV concept is crucial to make clear the eventual full impact of the initial expenditures and thereby tip the philanthropists' scales in SENS's favor.
 #### Quantifying Longevity Escape Velocity More Precisely
 ### 15. War Bonds for the Campaign Against Aging (6pp)
 - If SENS works, you have a strong chance of not dying from aging.
