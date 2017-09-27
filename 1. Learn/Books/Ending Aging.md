@@ -305,6 +305,8 @@
 - SENS must be able to justify itself on the same humanitarian terms as traditional world health projects despite initially primarily benefiting the wealthy.
 - The LEV concept is crucial to make clear the eventual full impact of the initial expenditures and thereby tip the philanthropists' scales in SENS's favor.
 #### Quantifying Longevity Escape Velocity More Precisely
+- I am working with programmer Chris Phoenix to publish precise predictions of the degree of healthy life extension we can expect given different rates of progress.
+- Starting out, we need to halve the amount of damage that cannot be repaired about every forty years, and it gets easier from there.
 ### 15. War Bonds for the Campaign Against Aging (6pp)
 - If SENS works, you have a strong chance of not dying from aging.
 - How soon SENS works depends on when the funding really gets serious, which depends on when robust mouse rejuvenation happens.
