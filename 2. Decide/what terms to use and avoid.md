@@ -13,7 +13,7 @@
 #### Longevity
 - Aubrey says in his talks, "I work on health, not longevity".
 
-##### Reasoning
+###### Reasoning
 - The word "longevity" by itself leads people to think that any extra years of life will be spent in a state of decrepitude.
 
 #### Immortality
