@@ -272,8 +272,21 @@
 #### Hippocrates and Gelsinger
 
 ### 14. Bootstrapping Our Way to an Ageless Future (14pp)
+- The initial therapies will not be perfect.
+  - There will still be a gradual ("residual") accumulation of damage.
+  - This will probably lead to death from aging being delayed only thirty to fifty years.
+- In this chapter I'm going to explain why that initial 30-50 years will be enough for us to continue making advances such that "I expect many people alive today to live to one thousand years of age".
 #### Evolution Didn't Leave Notes
+- The fact that the body is a machine just like a car sounds like reason to suppose that the initial therapies will be perfect.
+- But unlike man-made machines, "we are still profoundly ignorant of the details" of metabolism.
+- Thus, "as we fix more and more aspects of aging, you can bet that new aspects will be unmasked."
+- We need to worry about entirely new categories of damage as well as less-common variations of the existing seven categories.
+- Therapies that rejuvenate sixty-year-olds will not work so well the second time around, because the "more-difficult" / untreated forms of damage will have continued to accumulate.
+- "Even though it will be much harder to double a middle-aged human's remaining life span than a middle-aged mouse's, multiplying that remaining lifespan by much larger factors--ten or thirty, say--will be much *easier* in humans than in mice."
 #### The Two-Speed Pace of Technology
+- For centuries humans have been interested in flying, but "no success in this area was achieved until about a century ago".
+- Ever since Kitty Hawk, though, "aviation engineers seem to have progressed at an almost serenely smooth pace".
+- I suspect we will see something similar with life extension therapies.
 #### Longevity Escape Velocity
 #### The Political and Social Significance of Discussing LEV
 #### Quantifying Longevity Escape Velocity More Precisely
