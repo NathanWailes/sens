@@ -27,6 +27,7 @@
 #### Part Three
 13. Getting from Here to There: The War on Aging
 14. Bootstrapping Our Way to an Ageless Future
+    - Our initial therapies will not be perfect, but they should buy us enough time to develop further therapies, and if we can keep buying ourselves time, we will have achieved "longevity escape velocity" (LEV).
 15. War Bonds for the Campaign Against Aging
     - The best way for you to hasten the arrival of comprehensive anti-aging therapies is to donate to the Methuselah Foundation, which funds the needed research directly as well as the Methuselah Mouse Prize, which should attract even more funding.
 
