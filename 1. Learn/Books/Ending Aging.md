@@ -219,7 +219,7 @@
 #### Alagebrium and Beyond
 #### Know Your Enemy
 
-### 10 Putting the Zombies to Rest
+### 10 Putting the Zombies to Rest (51pp)
 #### Attack of the Clones
 #### State of the Forces Report
 #### Balanced Budgets
@@ -286,11 +286,18 @@
 #### The Two-Speed Pace of Technology
 - For centuries humans have been interested in flying, but "no success in this area was achieved until about a century ago".
 - Ever since Kitty Hawk, though, "aviation engineers seem to have progressed at an almost serenely smooth pace".
-- I suspect we will see something similar with life extension therapies.
+- This pattern of fundamental breakthroughs followed by incremental refinements is typical of the history of technological fields.
+- Thus, I suspect we will see something similar with life extension therapies.
+- A mouse's lifespan is so short that the mice that receive first-generation therapies will not live long enough to receive the benefit of second-generation therapies.
+- But the first *humans* to receive those first-generation therapies will have *twenty* years to find those second-generation therapies.
 #### Longevity Escape Velocity
+- Thus there exists some rate of progress that will allow us to "stave off aging indefinitely".
+- I think the term "longevity escape velocity" (LEV) sums that up pretty well.
+- One thing to note is that we can "accumulate lead time" in one period that we can use in a later more-slowly-advancing period.
+- In other words, LEV means we need to keep the overall level of damage in the body to a level that the body can work around.
+- Analogy: If normal life is like jumping off a cliff (where gravity is aging and touching the ground is death), and these therapies are like a jetpack, LEV is when you are on average not moving downward.
 #### The Political and Social Significance of Discussing LEV
 #### Quantifying Longevity Escape Velocity More Precisely
-
 ### 15. War Bonds for the Campaign Against Aging (6pp)
 - If SENS works, you have a strong chance of not dying from aging.
 - How soon SENS works depends on when the funding really gets serious, which depends on when robust mouse rejuvenation happens.
