@@ -1,0 +1,5 @@
+# Summary of the SENS movement's rationale (for newcomers)
+1. *All* age-related health problems are a result of wear-and-tear damage that accumulates within the body over the course of our lives, just as the aging of any man-made machine--such as a car--is the result of the accumulation of wear-and-tear damage.
+1. Current research into fighting age-related diseases focuses trying to stop the damage from happening in the first place (analogous to trying to modify a car to never accumulate wear-and-tear) rather than how to repair the damage (analogous to "routine preventative maintenance").
+1. If we can get people to fund the right research, we have a "50% chance" (Aubrey's estimate) of being able to add 30 years of healthy life to currently-middle-aged adults, and...
+1. If we can achieve that first 30 years, we have a *very* good chance of being able to "continue to kick the can down the road" as follow-on breakthroughs allow us to repair whatever damage was not handled by first-generation therapies.
