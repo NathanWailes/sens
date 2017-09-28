@@ -10,7 +10,7 @@
   - We all need to act now.
 #### Part One
 1. The Eureka Moment
-    - The Big Idea that inspired this book (and the SENS movement more generally) is that repairing the damage caused by metabolism would be a far easier way to stop aging than the prevailing approach of trying to modify metabolism to not create the damage in the first place.
+    - The Big Idea that inspired this book (and the SENS movement more generally) is that *repairing* the damage caused by metabolism would be a far easier way to stop aging than the prevailing approach of trying to modify metabolism to *not create* the damage in the first place.
 2. Wake Up--Aging Kills!
     - Aging is the worst problem in the world, and because up until now there's been nothing we could do about it, people default to a "pro-aging trance", which makes it harder to get them to help find a final cure now that we're in a position to do so.
 3. Demystifying Aging
@@ -27,7 +27,7 @@
 #### Part Three
 13. Getting from Here to There: The War on Aging
 14. Bootstrapping Our Way to an Ageless Future
-    - Our initial therapies will only be able to extend life by thirty to fifty years, but that should be enough time to develop further therapies to buy ourselves more time, and if we can keep doing that, we will have achieved "longevity escape velocity" (LEV).
+    - Our initial therapies will only be able to extend life by thirty to fifty years, but that should be enough time to develop further therapies to buy ourselves more time, and if we can keep doing that (which is a safe assumption), we will have achieved "longevity escape velocity" (LEV).
 15. War Bonds for the Campaign Against Aging
     - The best way for you to hasten the arrival of comprehensive anti-aging therapies is to donate to the Methuselah Foundation, which funds the needed research directly as well as the Methuselah Mouse Prize, which should attract even more funding.
 
@@ -126,11 +126,16 @@
 - Small amounts of money will be "pivotal" early-on to fund the relatively-less-expensive mouse research that will get society excited enough to supply the necessary larger amount funding into the effort.
 - This book focuses on convincing readers of the *practicality* of radical life extension; if you want answers to questions about the *desirability* of life extension, check my website.
 ### 3. Demystifying Aging (20pp)
-- There are people in the pro-aging trance who believe that aging will probably eventually be cured, but also believe that the chance of that happening soon is zero.
-- The goal of this chapter is to convince these people that the probability of a cure relatively soon is at least not zero.
-- In this chapter I am going to debunk the idea that aging is a phenomenon unlike all other health conditions.
-- TODO: Continue this.
+- There will be a subset of readers trapped in the pro-aging trance who--"in their heart of hearts"--believe that aging may someday come under medical control, but they also subconsciously(?) believe the odds of it happening within their lifetime are so low (0%-1%) that it's psychologically more comfortable to *irrationally* believe that aging will *never* come under medical control.
+- My goals in this chapter are to:
+  1. dismantle that safe-haven of being able to believe that aging will *never* come under medical control, and
+  1. demonstrate further that the odds of aging being brought under control *in the foreseeable future* are *at least* non-zero.
+- To that end I am going to debunk the popular idea that aging is a phenomenon unlike all other health conditions.
 #### The Illusory Boundary Between Aging and Disease
+- Through the 1950s, '60s, and '70s, while gerontology was making its big push for recognition as a legitimate biological discipline, rhetoric developed to the effect that the infirmities of aging should be viewed as separable into two distinct phenomena: on the one hand, age-related diseases, and on the other hand, "aging itself".
+- Gerontologists did this to try to protect funding for their field (which was to study those things they described as "aging itself").
+- The truth is, "All gerontologists know that aging is no more and no less than the *collective early stages* of the various age-related diseases."
+- "I maintain that it is overwhelmingly the inaccurate rhetoric of gerontologists, resulting from their misguided policy of previous decades, that has brought about such entrenched resistance to a simple, obvious and (within the field) universally agreed-upon truth about the potential value of postponing aging."
 #### Why Aging Doesn't Need a Timer
 #### The Corollary That Even Most Experts Overlook
 #### Why Fixing Aging Is *Easier* than Fixing Similarly Complex Machines
@@ -138,7 +143,7 @@
 #### Calorie Restriction and Its Emulation: A False Dawn
 #### Not Good Enough--But Better Than Nothing
 
-### 4. Engineering Rejuvenation
+### 4. Engineering Rejuvenation (19pp)
 #### A Caveat: Why Prevention Is Usually Better than Cure
 #### But Only Usually...
 #### Worst of Both Worlds, or Best?
