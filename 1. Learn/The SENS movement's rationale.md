@@ -1,4 +1,4 @@
-# Short summary of the SENS movement's rationale (for newcomers)
+# A short summary of the SENS movement's rationale
 1. *All* age-related health problems are a result of wear-and-tear damage that accumulates within the body over the course of our lives, just as the aging of any man-made machine--such as a car--is the result of the accumulation of wear-and-tear damage.
 1. We have strong reason to believe that we know *all* of the different kinds of age-related damage there are, and they fall into just seven categories (with the variations of damage in each category being similarly treatable).
 1. But because scientists have been thinking about the problem the wrong way, current research into fighting age-related diseases is aiming to either intervene too late (analogous to trying to fix a totaled car), or stop the damage from happening in the first place (analogous to trying to modify a car to never accumulate wear-and-tear), rather than the correct approach of periodically repairing the damage before it gets out-of-hand (analogous to "routine preventative maintenance").
