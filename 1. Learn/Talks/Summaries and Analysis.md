@@ -112,6 +112,30 @@
 - *Question: About a year ago there was set up this company called "Calico", the California life company, we set it up to work independently. And I was just wondering: First of all, how do you view this development? And secondly, have you had the chance to work with them so far?*
   - *Answer: Yeah, actually I was very surprised that no one at the talk I gave at lunchtime asked about Calico. But yes, Calico was set up by Larry and Sergey about a year ago...and, well, my view of that development was expressed in Time magazine, which was where the thing was announced. Time got me to write the reaction piece, so to speak, and I was...pretty effusive. I was overjoyed. And I still am. **I think that there is a very respectable chance that they will make a really big difference. But only a chance. It just remains to be seen.** They are taking their own really good time to decide exactly where they're going to be prioritizing their efforts. And in a way that's a good thing. The worst thing that could possibly happen would have been a repeat of what happened 15 years ago when another very wealthy individual, Larry Ellison, decides to do essentially the same thing, albeit in a foundation rather than a company. He basically went out and promptly hired a veteran gerontologist from the NIA, and the result was completely predictable: 15 years and $400 million later, absolutely nothing had been done that wouldn't have been done anyway. And he's given up now. So Calico is potentially a really good thing: they've got people at the top who are by-and-large not trained gerontologists, and therefore they know what they don't know; they're making their own decisions. **They're not talking to us nearly as much as we'd like them to, and as we think they should be**, but...that may change. So I'm hopeful.*
 
+#### [2014.12.03 - are we entering the third era of (healthy) life extension?](https://www.youtube.com/watch?v=I1hlLM-LTmU)
+- 1:15 - "This will be a very unusual and new talk."
+- 1:46 - This is the first time I've given this talk.
+- 2:02 - I am not going to distinguish between life extension and *healthy* life extension, because they are very, very closely related.
+- 3:15 - I'm going to ask you four questions about what you think is the current state of affairs w/r/t four key statistics.
+- 3:35 - What do you think is the current global life expectancy at birth (LEB)? 55-60? 60-65? 65-70? 70-75?
+- 4:15 - What about current global total fertility rate (TFR)? 3-3.25? 2.75-3? 2.5-2.75? 2.25-2.5?
+- 5:00 - What about the average age of everyone who's alive today? 15-20? 20-25? 25-30? 30-35?
+- 5:20 - Percentage of deaths worldwide caused by aging? 55-60%? 60-65%? 65-70%? 70-75%?
+- 7:10 - The LEB went above 70 about 5 years ago.
+- 7:15 - The TFR went under 2.5 about 7 years ago.
+- 7:21 - The average age is 29.something at this point, maybe go above 30 this year.
+- 7:34 - The deaths from aging are probably going to go above 75% this year.
+- 8:10 - I think it's very important for people in this field to be aware of these numbers.
+- 8:20 - The amount of ignorance about these numbers is profound, and needs to change.
+- 9:10 - Progress is slowing down *everywhere*.
+- 9:13 - We have *half* the centenarians that it was predicted 15 years ago that we would have by now. This is perhaps the most important statistic to be aware of.
+- 10:00 - It's even worse for super-centenarians (people over the age of 110).
+- 10:45 - We seem to be hitting some kind of wall, and we need to take this seriously.
+- 12:20 - I want you to know that we can eyeball survival curves to learn pretty much everything we need to know.
+- 14:10 - The "C" term is basically the mortality rate in youth.
+- 15:30 - We can look at these different mortality curves from different times (going back hundreds of years) and think about what was going on that lead to the changes between each curve.
+
+
 #### [2017.05.03 - START Summit - A Guideline on how to become immortal](https://www.youtube.com/watch?v=9h-MeY70djE)
   
 #### [2017.06.01 - YouTube - Dr. Aubrey de Grey Interview : Controlling the Main Aging Damages - Where Are We Now?](https://www.youtube.com/watch?v=FedFqQ-a11M)
