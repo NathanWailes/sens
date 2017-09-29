@@ -5,7 +5,9 @@
 - [Methuselah Foundation - Challenges to the Credibility of SENS](https://web.archive.org/web/20080912155953/http://www.mfoundation.org:80/index.php?pagename=credibility)
 
 # Articles and Papers
-
+ - [2005.01.18 - MIT Technology Review - Aubrey de Grey Responds](https://www.technologyreview.com/s/403617/aubrey-de-grey-responds/)
+ - [2005.02.01 - MIT Technology Review - Do You Want to Live Forever?](https://www.technologyreview.com/s/403654/do-you-want-to-live-forever/)
+ - [2005.04.01 - MIT Technology Review - Letters](https://www.technologyreview.com/s/403904/letters/)
  - [2006 - SENS - Defeat of aging - utopia or foreseeable scientific reality?](http://www.sens.org/files/pdf/Burd-PP.pdf)
    - This is a good summary of his argument.
    - Summary / Key Quotes:
