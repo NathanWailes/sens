@@ -5,4 +5,7 @@
 1. If we can get people to fund the right research, we have a "50% chance" (Aubrey's estimate) of being able to add 30 years of healthy life to currently-middle-aged adults.
 1. If we can achieve that first 30 years, we have a *very* good chance of being able to "continue to kick the can down the road" as follow-on breakthroughs allow us to repair whatever damage was not handled by first-generation therapies.
 
-If you'd like to learn more, consider reading [a summary of Aubrey's book "Ending Aging"](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/Books/Ending%20Aging.md).
+If you'd like to learn more, here are some good next things to check out:
+- [A summary of Aubrey's book "Ending Aging"](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/Books/Ending%20Aging.md)
+- [Links to and summaries of Aubrey's talks](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/Talks/Summaries%20and%20Analysis.md)
+- [Links to and highlights from articles written by or about Aubrey](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/Articles%20and%20Papers.md)
