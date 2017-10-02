@@ -4,3 +4,5 @@
 1. But because scientists have been thinking about aging the wrong way, current research into fighting age-related diseases is aiming to either intervene too late (analogous to trying to repair a car that has been neglected for decades), or stop the damage from happening in the first place (analogous to trying to modify a car to never accumulate wear-and-tear), rather than the correct approach of periodically repairing the damage before it gets out-of-hand (analogous to "routine preventative maintenance").
 1. If we can get people to fund the right research, we have a "50% chance" (Aubrey's estimate) of being able to add 30 years of healthy life to currently-middle-aged adults.
 1. If we can achieve that first 30 years, we have a *very* good chance of being able to "continue to kick the can down the road" as follow-on breakthroughs allow us to repair whatever damage was not handled by first-generation therapies.
+
+If you'd like to learn more, consider reading [a summary of Aubrey's book "Ending Aging"](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/Books/Ending%20Aging.md).
