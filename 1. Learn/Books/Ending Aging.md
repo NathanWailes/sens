@@ -10,7 +10,7 @@
   - We all need to act now.
 #### Part One
 1. The Eureka Moment
-    - The Big Idea that inspired this book (and the SENS movement more generally) is that *repairing* the damage caused by metabolism would be a far easier way to stop aging than the prevailing approach of trying to modify metabolism to *not create* the damage in the first place.
+    - The Big Idea that inspired this book (and the SENS movement more generally) is that *repairing* the damage caused by metabolism would be a far easier way to end aging than the prevailing approach of trying to modify metabolism to *not create* the damage in the first place.
 2. Wake Up--Aging Kills!
     - Aging is the worst problem in the world, and because up until now there's been nothing we could do about it, people default to a "pro-aging trance", which makes it harder to get them to help find a final cure now that we're in a position to do so.
 3. Demystifying Aging
