@@ -8,9 +8,9 @@
 - Ending Aging (Book)
   - [Wikipedia - Ending Aging](https://en.wikipedia.org/wiki/Ending_Aging)
   - [Amazon - Ending Aging](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074)
-
-# The Methuselah Foundation
 - [The Methuselah Foundation](https://www.mfoundation.org/)
+- [Rejuvenation Research](http://online.liebertpub.com/REJ) (Journal) (partially paywalled)
+  - [Wikipedia entry](https://en.wikipedia.org/wiki/Rejuvenation_Research)
 
 # Closely-related entities
 - [Fight Aging!](https://www.fightaging.org/)
