@@ -21,7 +21,7 @@
 7. Upgrading the Biological Incinerators
 8. Cutting Free of the Cellular Spider Webs
 9. Breaking the Shackles of AGE
-10 Putting the Zombies to Rest
+10. Putting the Zombies to Rest
 11. New Cells for Old
 12. Nuclear Mutations and the Total Defeat Of Cancer
 #### Part Three
