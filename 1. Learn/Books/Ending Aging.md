@@ -273,10 +273,39 @@
 
 ## Part Three
 ### 13. Getting from Here to There: The War on Aging (18pp)
+- From what I've presented so far, you could conclude that I've only made a case for the *eventual* development of therapies that could *modestly* delay aging.
+- In this chapter I'm going to address the timeframe for widespread availability of the therapies described in this book.
+- I define the phrase "the War on Aging" to be the period between the destruction of the pro-aging trance and the widespread availability of the therapies.
+- The pro-aging trance will end only when it is unable to withstand a simple assault that most people can understand.
+- I believe this will happen when scientists obtain results in the laboratory with mice that are so impressive that the majority of them will say publicly that it's only a matter of time before we can postpone aging in humans by a few decades.
+- "Science is in a very real sense the new religion: what individual scientists say can be doubted, but the public scientific consensus is gospel."
+- Robust Mouse Rejuvenation (RMR) is when:
+  - at least twenty mice of the species *Mus musculus*
+  - from a strain whose natural average life span is at least three years,
+  - receive treatments starting only when they are at least two years old,
+  - and live to an average of five years of age, with all the extra time being healthy.
+- In order to describe the reaction I expect society to have to RMR, I must first describe a "triangular logjam" that is a side-effect of the pro-aging trance.
+- Experimental biology costs a lot of money, and the overwhelming majority of that money comes from the government.
+- Biogerontology is somewhat unique in that the public is particularly interested in it, and so it's easy to get press if you're in the field.
+- "So there you have it--the triangular logjam. Biogerontologists are cautious in what they say to the public, in order to protect their funding, which is provided by the government, which are cautious in what and whom they fund, in order to protect their votes, which are provided by the public, who are fatalistic about what's even worth trying to achieve, because they see the biogerontologists saying only cautious things on the TV."
+- I believe we must break the triangular logjam to defeat aging anytime soon.
+- How can we do this?
+- I have been chipping away at the biogerontologist-corner of the triangle.
+- 
 #### The Intensity of the War on Aging, and Its Consequent Likely Duration
+- 
 #### Why "the War on Aging"?
+- The war on aging will be extremely expensive, and yet the public will embrace the necessary tax rises.
+- This is a mind-set that is only seen in wartime.
 #### Hippocrates and Gelsinger
-
+- I want to talk about one more aspect of the war on aging that is necessary for my conclusion that this war may last only 15-20 years.
+- In 1999 a teenager named Jesse Gelsinger died during a gene therapy procedure, and all gene therapies *worldwide* were suspended for about a year. That delay meant thousands of lives lost from the lack of safe gene therapies. Was that "a proportionate response"?
+- The FDA bases its regulation of therapies on "the minimization of risk that the therapy might make the patient worse"; in other words, Hippocrates' edict "first do no harm".
+- The avoidance of harm was rational during the early days of medicine, when people "very often recovered spontaneously from what their doctors thought were fatal conditions", because of "the *psychological* effect of possibly causing harm".
+- In the modern world, such recoveries are rare, and "I therefore believe that the 10:1 (at least) ratio of lives lost through slow approval of safe drugs to lives lost through hasty approval of unsafe drugs is no longer acceptable".
+- I believe that the public will also come to this view within months of the achievement of RMR.
+- My guess is that drugs will be approved for universal use (via prescription) after a degree of testing that approximates today's Phase 2.
+- Without this change, the fifteen-year prediction "would be totally absurd".
 ### 14. Bootstrapping Our Way to an Ageless Future (14pp)
 - The initial therapies will not be perfect.
   - There will still be a gradual ("residual") accumulation of damage.
