@@ -27,7 +27,7 @@
 #### Part Three
 13. Getting from Here to There: The War on Aging
 14. Bootstrapping Our Way to an Ageless Future
-    - Our initial therapies will only be able to extend life by thirty to fifty years, but that should be enough time to develop further therapies to buy ourselves more time, and if we can keep doing that (which is a safe assumption), we will have achieved "longevity escape velocity" (LEV).
+    - Our initial therapies will only be able to extend life by thirty to fifty years, but that should be enough time to develop further therapies to buy ourselves more time, and if we can keep doing that (which I suspect we can), we will have achieved "longevity escape velocity" (LEV).
 15. War Bonds for the Campaign Against Aging
     - The best way for you to hasten the arrival of comprehensive anti-aging therapies is to donate to the Methuselah Foundation, which funds the needed research directly as well as the Methuselah Mouse Prize, which should attract even more funding.
 
