@@ -22,6 +22,12 @@ For example, one way it could be useful is for understanding the situations / po
   
   Aubrey: I would say that definitely **their hearts are in the right place**, but they are a regular, perfectly normal company. **They want to make profits fairly soon.**
 
+# Michael Fossel
+- [2016.07.19 - Reddit - Futurology - Aubrey AMA](https://www.reddit.com/r/Futurology/comments/4t65ay/aubrey_de_grey_ama_ask_about_the_quest_to_cure/d5inxw3/)
+  - > The_Big_Splooj: What do you think of Michael Fossel's research?
+    >
+    > Aubrey: He's not a researcher. Great guy though!
+
 # Ntercept
 - [2016.07.19 - Reddit - Futurology - Aubrey AMA](https://www.reddit.com/r/Futurology/comments/4t65ay/aubrey_de_grey_ama_ask_about_the_quest_to_cure/d5i9h9m/)
   - > florianist: Hi Aubrey & Haroldo, there has been articles in some newspapers about several new methods of treating cancer (called immunotherapies) that increase the strength of immune responses against cancer tumors. In general, how do you see the potential of immunotherapies in the fight against cancer? In particular, is there something in the development of those therapies that can also help SENS?
