@@ -21,6 +21,8 @@
 
 ###### Reasoning
 - The word "longevity" by itself leads people to think that any extra years of life will be spent in a state of decrepitude.
+- Saying they work on "longevity" also may lead people to think that what they're doing is very different from traditional medical research, which is not accurate, and may lead people to think it's not respectable / not scientific.
+  - *"SENS is focused not on extending life per se, de Grey emphasizes, but rather on preventing and periodically repairing the various kinds of accumulated damage that produce the diseases and infirmities we now consider natural concomitants of old age."* ([Source](http://www.hhnmag.com/articles/3842-the-big-breakthrough-in-rejuvenative-medicine))
 
 #### Cure
 - I'm not sure about this one. I think I've heard Aubrey say that aging will never be "cured" the way that infectious diseases can be cured. But I'm not sure if that means that using the word "cure" should be avoided.
