@@ -1,5 +1,26 @@
 The idea here is to gather all of the articles, videos, etc. that criticize SENS, Aubrey, etc. And then hopefully also have a separate organization of all of this information by the particular argument being made, so that it's easy for newcomers to look up a criticism they have and see what Aubrey's response is.
 
+
+
+# Organized by topic
+
+
+## SENS
+
+## Aubrey
+
+### Aubrey lives an unhealthy lifestyle
+- He drinks ~3 pints of beer a day.
+- He doesn't exercise.
+https://www.reddit.com/r/samharris/comments/5uhyuf/sam_on_antiaging_and_aubrey_de_grey/dducg8t/
+
+##### Response
+- Aubrey has some gene that allows him to handle alcohol relatively well, such that he's made a considered decision to enjoy it.
+- He has also thoroughly examined the research on lifestyle and learned that living a very-strictly-healthy lifestyle only modestly improves life span (by say ~2 years) over living a merely "fairly" healthy lifestyle (i.e. not being overweight).
+- TODO: Get some official sources (recorded clips of Aubrey speaking).
+
+# Links organized by date
+
 #### [2005.11 - EMBO Reports - Science fact and the SENS agenda](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1371037/?tool=pubmed)
 
 ###### Summary
