@@ -8,7 +8,7 @@ The idea here is to gather all of the articles, videos, etc. that criticize SENS
 
 ### It will lead to overpopulation
 - [2016.07.19 - Reddit - Futurology - Aubrey AMA](https://www.reddit.com/r/Futurology/comments/4t65ay/aubrey_de_grey_ama_ask_about_the_quest_to_cure/d5ig8eg/)
-  - > Say we effectively end aging. How do you see the world coping with a much longer-lived population?
+  - > demodious: Say we effectively end aging. How do you see the world coping with a much longer-lived population?
     >
     > Aubrey: See the study we funded recently:
     > http://www.sciencedirect.com/science/article/pii/S0040162515001985
