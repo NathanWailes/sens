@@ -5,6 +5,7 @@
 - Aubrey de Grey
   - [Wikipedia - Aubrey de Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey)
   - [Quora - Aubrey de Grey](https://www.quora.com/profile/Aubrey-de-Grey)
+  - [Reddit - Aubrey de Grey (ag24ag24)](https://www.reddit.com/user/ag24ag24)
 - Ending Aging (Book)
   - [Wikipedia - Ending Aging](https://en.wikipedia.org/wiki/Ending_Aging)
   - [Amazon - Ending Aging](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074)
