@@ -3,6 +3,12 @@ The idea here is to gather information about other groups (like Calico) or indiv
 For example, one way it could be useful is for understanding the situations / positions of these other groups and using that information to try to influence which research they decide to allocate money to.
 
 
+# Mikhail Blagosklonny
+- [2016.07.19 - Reddit - Futurology - Aubrey AMA](https://www.reddit.com/r/Futurology/comments/4t65ay/aubrey_de_grey_ama_ask_about_the_quest_to_cure/d5g5egc/)
+  - > kenbolland: Thank you for this, Dr de Grey. While it is unquestionable that damage accumulation will have grave consequences, is it certain that this is the proximal cause of aging? I.e., might this have serious consequences not when we are 75 but 150? Hyperfunction theory (Blagosklonny and others) holds that aging is caused primarily by continued activation of ancient signal transduction pathways evolved for growth and reproduction, long after the period of reproduction has passed.
+    >
+    > Aubrey: Blag's theory is very fashionable right now, but please note that it is not actually in conflict with SENS. There's really no such thing as the "damage theory", because I simply define damage to be the progressive changes in the body's structure that eventually sicken and kill us. If those changes are brought about by inappropriately continued gene expression, so what? - they can still be reversed (repaired).
+
 # David Sinclair
 - [2016.07.19 - Reddit - Futurology - Aubrey AMA](https://www.reddit.com/r/Futurology/comments/4t65ay/aubrey_de_grey_ama_ask_about_the_quest_to_cure/d5ikqdj/)
   - > SebastianPye: What do you think of David Sinclairs work? Is he associated with SENS?
