@@ -50,8 +50,12 @@ https://www.reddit.com/r/samharris/comments/5uhyuf/sam_on_antiaging_and_aubrey_d
 - Warner et al. dismiss SENS as 'scientifically' unrealistic, but they forget that engineering—of which life extension will be an example, as all medicine is—differs profoundly from science in its goals, methods and skills.
 - Their knowledge of SENS is woeful.
 
-#### 2006.11.13 [Scientific and ethical concerns regarding engineering human longevity.](https://www.ncbi.nlm.nih.gov/pubmed/17105382)
+#### [2006.11.13 - Scientific and ethical concerns regarding engineering human longevity.](https://www.ncbi.nlm.nih.gov/pubmed/17105382)
 - Unfortunately it's behind a paywall.
 
 ###### Aubrey's response: [SENS Is Hard, Yes, but Not Too Hard to Try: A Reply to Warner](http://online.liebertpub.com/doi/abs/10.1089/rej.2006.9.443)
 - Behind a paywall.
+
+#### [2016.07.19 - Reddit - Futurology - Aubrey AMA](https://www.reddit.com/r/Futurology/comments/4t65ay/aubrey_de_grey_ama_ask_about_the_quest_to_cure/d5ii6xu/)
+ - > Q: UC Irvine evolutionary biologist Dr. Michael Rose has been critical of SENS, claiming it is far too reductionist in its approach (meaning that biology is more than just machinery assembled from parts). How would you respond?
+ - > Aubrey: Well, that's not precisely what he says, but yes, he thinks that his Drosophila findings (specifically the "plateauing" of mortality rates) imply that organisms must have a system for shutting off the accumulation of life-threatening damage. I've explained repeatedly to him, including in print, that this doesn't follow, and that his belief that his results can only be explained that way arises from a basic mathematical error that he made about 20 years ago and has never been willing to admit to, compounded by another one about 10 years ago. It also doesn't help that he holds the additional mistaken belief that evolutionary theory predicts this "late-life non-aging".
