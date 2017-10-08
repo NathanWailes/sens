@@ -5,7 +5,7 @@
 
 - [2016.07.19 - Reddit - Futurology - Aubrey AMA](https://www.reddit.com/r/Futurology/comments/4t65ay/aubrey_de_grey_ama_ask_about_the_quest_to_cure/d5ic190/)
   - > Q: Do you find that PR on curated media, like techie sites, leads to more donors or mainstream broadcasting like television shows?
-  - > Aubrey: I'm not sure which leads to more - I think it's cumulative - **many donors need to hear the message many times before they become convinced enough to actually give.** Industry will certainly invest - indeed, that's already starting to happen.
+    > Aubrey: I'm not sure which leads to more - I think it's cumulative - **many donors need to hear the message many times before they become convinced enough to actually give.** Industry will certainly invest - indeed, that's already starting to happen.
 
 
 # How to solve the free-rider problem
