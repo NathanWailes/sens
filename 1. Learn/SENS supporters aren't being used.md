@@ -18,8 +18,8 @@
 
 - [2017.05 - The Need to Dispel Longevity Sticker Shock - How do we advocate?](https://www.youtube.com/watch?v=w4e9-rtpAKU&t=37m48s)
   - The question starts at 37:48.
-> Aubrey: OK <he points to the questioner>, you were first.
->
-> Q: Do you have, say, a packet of material on your website, or something like that? Hearing you is great, and I've read you, and all that stuff, but what are the arguments? What are the facts that I can present to someone who has that <inaudible>?
->
-> Ok, great. So, yes, we *kinda* do...But actually, I used to have an FAQ on my own personal website way back when I used to work at Cambridge, like 15 years ago, answering these questions, and somehow or other it didn't look glitzy enough, so people took it down. But yeah, the answers are all there on our website, and certainly if there's any particular challenge to the desirability of fixing aging that you feel--you've had some discussion with somebody and you couldn't find the right answer--what you can absolutely always do is write to us, and say, "How should I have answered this question?" Ultimately, the best thing...you don't have to be physically in the same room as me to hear my answers; I am all over YouTube, so you can always just look at a lot of what I've said to people on-stage.
+  - > Aubrey: OK <he points to the questioner>, you were first.
+    >
+    > Q: Do you have, say, a packet of material on your website, or something like that? Hearing you is great, and I've read you, and all that stuff, but what are the arguments? What are the facts that I can present to someone who has that <inaudible>?
+    >
+    > Ok, great. So, yes, we *kinda* do...But actually, I used to have an FAQ on my own personal website way back when I used to work at Cambridge, like 15 years ago, answering these questions, and somehow or other it didn't look glitzy enough, so people took it down. But yeah, the answers are all there on our website, and certainly if there's any particular challenge to the desirability of fixing aging that you feel--you've had some discussion with somebody and you couldn't find the right answer--what you can absolutely always do is write to us, and say, "How should I have answered this question?" Ultimately, the best thing...you don't have to be physically in the same room as me to hear my answers; I am all over YouTube, so you can always just look at a lot of what I've said to people on-stage.
