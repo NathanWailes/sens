@@ -5,6 +5,8 @@
 - [Methuselah Foundation - Challenges to the Credibility of SENS](https://web.archive.org/web/20080912155953/http://www.mfoundation.org:80/index.php?pagename=credibility)
 
 # Articles and Papers
+ - [2005 - Nick Bostrom - The Fable of the Dragon-Tyrant](https://nickbostrom.com/fable/dragon.html)
+   - Rec'd by Aubrey [here](https://www.reddit.com/r/Futurology/comments/51wpds/aubrey_de_grey_matthew_oconnor_ama/d7jcpkf/)("I always recommend Nick Bostrom's "Fable of the Dragon Tyrant" as a quick read")
  - [2005.01.18 - MIT Technology Review - Aubrey de Grey Responds](https://www.technologyreview.com/s/403617/aubrey-de-grey-responds/)
  - [2005.02.01 - MIT Technology Review - Do You Want to Live Forever?](https://www.technologyreview.com/s/403654/do-you-want-to-live-forever/)
  - [2005.04.01 - MIT Technology Review - Letters](https://www.technologyreview.com/s/403904/letters/)
@@ -21,6 +23,8 @@
        
        The implications of this pattern for the lives of people who are in middle age or younger at the time that RHR is achieved is clear, but no less dramatic for that. Put simply, there is a very high probability that the 25-30 years of good health conferred on its recipients by the first-generation panel of rejuvenation therapies (defined as those which achieve RHR) will suffice for the development of much more thorough and comprehensive therapies, capable of delivering more like a century of extra life to those who are in relatively good health at the time those therapies arrive. This is where the longevity escape velocity (LEV) concept arises. The recipients of the first-generation therapies – the ones that gave only around 30 years of extra healthy life – will, at least if sociopolitical pressures do not intervene, mostly also be among the beneficiaries of the secondgeneration ones, since they will be in the same degree of health at that time as they were when the first-generation therapies arrived. The same logic of course applies indefinitely into the future, just so long as the rate of progress in improving the comprehensiveness of the therapies continues to outstrip the rate at which the remaining imperfections in those therapies allow the accumulation of eventually pathogenic damage.
 - [2006 - MIT Technology Review - Is Defeating Aging Only a Dream?](http://www2.technologyreview.com/sens/)
+- [2007.12.18 - Institute for Ethics and Emerging Technologies - Aaron Diaz - Enough is Enough: A Thinking Ape’s Critique of Trans-Simianism](https://ieet.org/index.php/IEET2/more/2181/)
+  - Rec'd by Aubrey [here](https://www.reddit.com/r/Futurology/comments/51wpds/aubrey_de_grey_matthew_oconnor_ama/d7jcpkf/) ("A particular favourite of mine on the more satirical side")
 - [2010.10.19 - WIRED - How Beer, Oprah and Sergey Brin Can Help Cure Aging](http://www.wired.com/2010/10/aubrey-de-grey/)
   - Wired.com: The results from research into mouse longevity won’t necessarily be directly applicable to human biology. Nevertheless, you’ve made it clear such work is vital for getting someone like Oprah to help champion the anti-aging cause. When do you foresee yourself getting that kind of exposure?
     
