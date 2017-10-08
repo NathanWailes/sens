@@ -2,6 +2,8 @@
 - The SENS Research Foundation (SRF)
   - [SENS.org](http://www.sens.org/)
   - [Wikipedia - Strategies for Engineered Negligible Senescence](https://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence)
+  - [/r/sens/](https://www.reddit.com/r/sens/)
+    - Aubrey is the moderator.
 - Aubrey de Grey
   - [Wikipedia - Aubrey de Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey)
   - [Quora - Aubrey de Grey](https://www.quora.com/profile/Aubrey-de-Grey)
