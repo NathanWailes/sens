@@ -2,6 +2,9 @@
 # Misc thoughts
 - Elon Musk has certainly put a lot of attention into his appearance. His PayPal photo looks more like Aubrey's current appearance.
 - Steve Jobs and Adolf Hitler were both *extremely* shoddy dressers until they got their opportunity to lead, at which time they put a lot of effort into cleaning up their appearance. Although Jobs is mostly known now for his turtleneck / jeans / sneakers look, when he first got started with the Apple 2 he was wearing suits.
+- Neil Cicierega
+  - [Before](http://c1.staticflickr.com/4/3428/4566343670_26139b523d_b.jpg)
+  - [After](https://cdn.vox-cdn.com/thumbor/BOq6haSEuQ4Q-zn3ajLwLXyufr0=/0x0:1440x810/1200x800/filters:focal(605x290:835x520)/cdn.vox-cdn.com/uploads/chorus_image/image/53558023/Screen_Shot_2017_01_25_at_12.05.31_PM.0.png)
 
 
 
