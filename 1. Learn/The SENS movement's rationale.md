@@ -10,3 +10,4 @@ If you'd like to learn more, here are some good next things to check out:
 - [A summary of Aubrey's book "Ending Aging"](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/Books/Ending%20Aging.md)
 - [Links to and summaries of Aubrey's talks](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/Talks/Summaries%20and%20Analysis.md)
 - [Links to and highlights from articles written by or about Aubrey](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/Articles%20and%20Papers.md)
+- [2017 - Rejuvenation Research - Aubrey de Grey - The Rationale for Rejuvenation Research: Structuring the Debate](http://online.liebertpub.com/doi/pdfplus/10.1089/rej.2017.1962)
