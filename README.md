@@ -4,7 +4,7 @@ Information to be used to help raise money for the SENS Research Foundation.
 # What's this all about?
 In short: It's about "ending aging": developing therapies to treat all age-related diseases, which would allow people to live for thousands of years.
 
-[SENS](https://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence) stands for *Strategies for Engineered Negligible Senescence*. It's a fancy way of saying "Ways to stop the health problems associated with having been alive a long time", or even more simply, "How to end aging". As you can read on the Wikipedia entry for SENS, it's a term coined by a guy named [Aubrey de Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey), who studied [the biology of aging](https://en.wikipedia.org/wiki/Gerontology#Biogerontology) at the extremely-prestigious [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge).
+[SENS](https://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence) stands for *Strategies for Engineered Negligible Senescence*. It's a fancy way of saying "Ways to stop the health problems associated with having been alive a long time", or even more simply, "How to end aging". As you can read on the Wikipedia entry for SENS, it's a term coined by [Aubrey de Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey), who studied [the biology of aging](https://en.wikipedia.org/wiki/Gerontology#Biogerontology) at the extremely-prestigious [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge).
 
 If you're not familiar with SENS, read the very-short [SENS movement's rationale](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/The%20SENS%20movement's%20rationale.md).
 
