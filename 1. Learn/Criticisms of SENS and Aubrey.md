@@ -3,6 +3,8 @@ The idea here is to gather all of the articles, videos, comments, etc. that crit
 
 
 # Organized by topic
+## The practicality of ending aging / SENS
+
 
 ## The desirability of ending aging
 
@@ -13,18 +15,20 @@ The idea here is to gather all of the articles, videos, comments, etc. that crit
     > Aubrey: See the study we funded recently:
     > http://www.sciencedirect.com/science/article/pii/S0040162515001985
 
+## Aubrey himself
 
-## The practicality of ending aging / SENS
+### Aubrey looks unusual
+- "If you're trying to end aging, why do you wear a long beard that makes you look old?"
 
-
-## Aubrey
+##### Responses:
+- So did Einstein.
 
 ### Aubrey lives an unhealthy lifestyle
 - He drinks ~3 pints of beer a day.
 - He doesn't exercise.
 https://www.reddit.com/r/samharris/comments/5uhyuf/sam_on_antiaging_and_aubrey_de_grey/dducg8t/
 
-##### Response
+##### Responses
 - Aubrey has some gene that allows him to handle alcohol relatively well, such that he's made a considered decision to enjoy it.
 - He has also thoroughly examined the research on lifestyle and learned that living a very-strictly-healthy lifestyle only modestly improves life span (by say ~2 years) over living a merely "fairly" healthy lifestyle (i.e. not being overweight).
 - TODO: Get some official sources (recorded clips of Aubrey speaking).
