@@ -1,4 +1,4 @@
-The idea here is to gather all of the articles, videos, etc. that criticize SENS, Aubrey, etc. And then hopefully also have a separate organization of all of this information by the particular argument being made, so that it's easy for newcomers to look up a criticism they have and see what Aubrey's response is.
+The idea here is to gather all of the articles, videos, comments, etc. that criticize SENS, Aubrey, etc. And then hopefully also have a separate organization of all of this information by the particular argument being made, so that it's easy for newcomers to look up a criticism they have and see what Aubrey's response is.
 
 
 
