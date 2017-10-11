@@ -20,3 +20,8 @@
 - [Wikipedia - Dominant Assurance Contracts](https://en.wikipedia.org/wiki/Assurance_contract#Dominant_assurance_contracts)
 - [1996 - The private provision of public goods via dominant assurance contracts](http://mason.gmu.edu/~atabarro/PrivateProvision.pdf)
 - Suggested by Cameron Ruggles, [Vespco](https://www.reddit.com/user/Vespco) on Reddit ([Source](https://www.reddit.com/r/longevity/comments/726l59/an_opensource_effort_to_raise_money_for_the_sens/dngn15j/))
+
+# How to spread awareness
+
+### Run something like the Ice Bucket Challenge
+- https://en.wikipedia.org/wiki/Ice_Bucket_Challenge
