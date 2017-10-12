@@ -17,6 +17,11 @@ The idea here is to gather all of the articles, videos, comments, etc. that crit
 
 ## Aubrey himself
 
+### Many scientists think he's a crackpot
+
+##### Examples of people saying this
+- a PhD in mathematics in an email to Nathan Wailes: "(obviously many scientists think he's a crackpot, but scientists tend to dismiss things that sound crack-pot-ey and that are about the far future without investigating them carefully)"
+
 ### Aubrey looks unusual
 - "If you're trying to end aging, why do you wear a long beard that makes you look old?"
 
