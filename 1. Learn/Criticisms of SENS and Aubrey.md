@@ -1,6 +1,6 @@
 The idea here is to gather all of the articles, videos, comments, etc. that criticize SENS, Aubrey, etc. And then hopefully also have a separate organization of all of this information by the particular argument being made, so that it's easy for newcomers to look up a criticism they have and see what Aubrey's response is.
 
-
+- [2008 - Aubrey de Grey - Challenges to the Credibility of SENS](https://web.archive.org/web/20080616064951/http://www.mfoundation.org:80/index.php?pagename=credibility)
 
 # Organized by topic
 ## The practicality of ending aging / SENS
