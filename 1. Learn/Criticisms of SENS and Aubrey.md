@@ -14,6 +14,8 @@ The idea here is to gather all of the articles, videos, comments, etc. that crit
     >
     > Aubrey: See the study we funded recently:
     > http://www.sciencedirect.com/science/article/pii/S0040162515001985
+- [2017.09.21 - Futurism - How Seven Sci-Fi Technologies Are Shaping Our Future](https://futurism.com/how-seven-sci-fi-technologies-are-shaping-our-future/)
+    - > One obvious risk associated with the end of natural aging is overpopulation. If the birth rate held constant without nearly as many natural deaths to offset it, it would become far more crowded in rapid fashion. Such a shift could require a widespread reevaluation of the wisdom of having children, and given that the drive to procreate is as fundamental to human psychology as the knowledge of our own mortality, doing so would likely prove very difficult indeed.
 
 ## Aubrey himself
 
