@@ -8,3 +8,4 @@
 
 # Don't track Google API JSON credentials files.
 **client_secrets.json
+**youtube-api-snippets-oauth2.json
