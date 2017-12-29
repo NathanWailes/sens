@@ -1,4 +1,13 @@
 
+# Messages
+
+#### Can you either list or direct us to a place where we can get a list of messages that 1) you'd like the public to get (i.e. things you'd like them to learn), and 2) misconceptions you'd like to dispel or avoid furthering? For example, you might want the public to get the message that we can achieve the first round of therapies in twenty years' time, and you might want to dispel / avoid propagating the idea that these therapies will only ever be for the rich.
+
+
+# Timelines
+
+#### Can you give us a detailed (obviously speculative) timeline of when various major events relevant to these therapies are likely to happen?
+
 
 # People
 
