@@ -4,7 +4,8 @@
 #### 2017.12.29
 
 - Sent message #001 to screencraft.org via their "Contact us" link.
-- Sent message #001 to the screenwriter who runs http://scriptshadow.net/ (carsonreeves1@gmail.com).
+- Sent message #001 to the screenwriter who runs scriptshadow.net.
+- Posted message #001 on the wordplayer.com message board.
 
 
 # Messages used
