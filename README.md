@@ -4,12 +4,16 @@ Information to be used to help raise money for the SENS Research Foundation.
 # What's this all about?
 In short: It's about "ending aging": developing therapies to treat all age-related diseases, which would allow people to live for thousands of years.
 
-[SENS](https://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence) stands for *Strategies for Engineered Negligible Senescence*. It's a fancy way of saying "Ways to stop the health problems associated with having been alive a long time", or even more simply, "How to end aging". As you can read on the Wikipedia entry for SENS, it's a term coined by [Aubrey de Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey), who studied [the biology of aging](https://en.wikipedia.org/wiki/Gerontology#Biogerontology) at the extremely-prestigious [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge).
+[SENS](https://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence) stands for *Strategies for Engineered Negligible Senescence*. It's a fancy way of saying "Ways to stop the health problems associated with having been alive a long time", or even more simply, "How to end aging". As you can read on the Wikipedia entry for SENS, it's a term coined by [Aubrey de Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey), who studied [the biology of aging](https://en.wikipedia.org/wiki/Gerontology#Biogerontology) at the extremely-prestigious [University of Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge), to describe a new strategy for defeating aging that focuses on *repairing* damage to the body rather than trying to *prevent* it.
 
-If you're not familiar with SENS, read the very-short [SENS movement's rationale](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/The%20SENS%20movement's%20rationale.md).
+If you're not familiar with SENS, please consider reading the very-short [SENS movement's rationale](https://github.com/NathanWailes/SENS/blob/master/1.%20Learn/The%20SENS%20movement's%20rationale.md).
+
+Now, SENS is just a strategy. Aubrey started the [SENS Research Foundation (SRF)](http://www.sens.org/) to fund and conduct research that follows the SENS strategy for defeating aging.
+
+So to recap: SENS is the new strategy to defeat aging, and the SRF is the organization following that strategy.
 
 # The current situation
-The current goal is to get SENS's funding to [$50 million/year](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=9m32s) from its current level of $4 million/year, so that it can be diverted to crucial research that is now possible but not being done for lack of funding.
+The current goal is to get the SENS Research Foundation's funding to [$50 million/year](https://www.youtube.com/watch?v=PX5bes7z4Lg&t=9m32s) from its current level of $4 million/year, so that it can be diverted to crucial research that is now possible but not being done for lack of funding.
 
 ##### Explanation
 [Aubrey has said]((https://www.youtube.com/watch?v=PX5bes7z4Lg&t=2m21s)) that when he first decided to tackle aging, he foresaw three major problems:
