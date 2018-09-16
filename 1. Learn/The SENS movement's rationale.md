@@ -2,7 +2,7 @@
 1. *All* age-related health problems are a result of wear-and-tear damage that accumulates within the body over the course of our lives, just as the aging of any man-made machine--such as a car--is the result of the accumulation of wear-and-tear damage.
 1. But scientists have been thinking about aging in two other (wrong) ways: current research into fighting age-related diseases is aiming to either:
     1. intervene too late (analogous to trying to repair a car that has been neglected for decades), or
-    1. stop the damage from happening in the first place (analogous to trying to modify a car to never accumulate wear-and-tear).
+    1. stop the damage from happening in the first place (analogous to trying to modify a car to never accumulate wear-and-tear damage).
 1. The correct approach to ending aging is periodically repairing the damage before it gets out-of-hand (analogous to "routine preventative maintenance" on a car).
 1. We have strong reason to believe that we know *all* of the different kinds of age-related damage there are, and they fall into just seven categories (with the variations of damage in each category being similarly-treatable).
 1. We have strong reason to believe that it is possible to develop treatments for all seven categories of damage in our lifetime.
